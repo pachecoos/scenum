@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "06.12.2022 23:58 Farm 4 a 7 dias facebook",
+	"lastEventDate": "07.12.2022 00:00 Farm 4 a 7 dias facebook",
 	"status": 2,
 	"id": "100088360425283",
 	"name": "bbrenborges",
-	"amountFriends": "",
+	"amountFriends": "27",
 	"screenname": "Brena Borges",
 	"birthdate": "2002 February 16",
 	"country": "",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1701864444.74615,
+			"expirationDate": 1701906843.842193,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1701864444.746249,
+			"expirationDate": 1701906843.842224,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -73,11 +73,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "9%3AcQ4LhVA3CMreXw%3A2%3A1670273712%3A-1%3A-1%3A%3AAcUr1h9ZkfcXlE8CWtlwn8vt_wa2CBon3meNmsvG4Q"
+			"value": "9%3AcQ4LhVA3CMreXw%3A2%3A1670273712%3A-1%3A-1%3A%3AAcWwbqEv1KKIJSqL6x3CZt8x4miVB5ekrdVeqpKPeA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678104443.746358,
+			"expirationDate": 1678147105.696104,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -86,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0BkOi3fQjZgRnkj9v.AWW6Ljpy1eaBOVArsWz-Hs9rDac.BjjzB8.x6.AAA.0.0.BjjzB8.AWWG7qSqV8g"
+			"value": "0eCXcw1KRs7fBlJLw.AWVulB6o98eOkNx8LXLDCG5Fqfo.Bjj9Yd.x6.AAA.0.0.Bjj9ci.AWUpjBGLvIE"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670933369,
+			"expirationDate": 1670976055,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670328546529%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670371212850%2C%22v%22%3A1%7D"
 		}
 	]
 }
