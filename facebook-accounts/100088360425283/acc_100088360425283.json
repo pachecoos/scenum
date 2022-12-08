@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "08.12.2022 17:03 Farm 4 a 7 dias facebook",
+	"lastEventDate": "08.12.2022 17:05 Farm 4 a 7 dias facebook",
 	"status": 2,
 	"id": "100088360425283",
 	"name": "bbrenborges",
-	"amountFriends": "44",
+	"amountFriends": "53",
 	"screenname": "Brena Borges",
 	"birthdate": "2002 February 16",
 	"country": "",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1701970084.0953,
+			"expirationDate": 1702054708.124217,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,7 +64,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671038993,
+			"expirationDate": 1702054708.124254,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "9%3AcQ4LhVA3CMreXw%3A2%3A1670273712%3A-1%3A566%3A%3AAcVWvymGu0JmD5dbtDJoO8ns3Hb7m2bNvnLB4QNWWg"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1671123913,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -77,20 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1701970084.095352,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "9%3AcQ4LhVA3CMreXw%3A2%3A1670273712%3A-1%3A-1%3A%3AAcXFu5JLc-4p5NSbCjwwDgirbqT8_YZpXvI1vDgx7w"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678210082.095366,
+			"expirationDate": 1678294999.09127,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "07AgZlgTkIEwodm3K.AWUpdUfGm2gJ1_kOu3tjjUff4V0.BjkM0k.x6.AAA.0.0.BjkM0k.AWWe64kAfPo"
+			"value": "0LqeLFKEdN9wmwMXl.AWXvdgAuZ8ajG1pqeyyioz151LM.Bjkhe0.x6.AAA.0.0.BjkhjX.AWWUPabgjW0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670434171139%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670519089103%2C%22v%22%3A1%7D"
 		}
 	]
 }
