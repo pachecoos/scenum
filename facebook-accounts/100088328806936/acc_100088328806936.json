@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "10.12.2022 16:05 9 A 12 DIAS",
+	"lastEventDate": "10.12.2022 16:07 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088328806936",
 	"name": "niczemas",
-	"amountFriends": "39",
+	"amountFriends": "46",
 	"screenname": "Nicole Zema",
 	"birthdate": "1998 March 17",
 	"country": "",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702123221.75581,
+			"expirationDate": 1702224312.69361,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671192129,
+			"expirationDate": 1671293224,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702123221.755856,
+			"expirationDate": 1702224312.693643,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -99,11 +99,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "39%3AjCzazcABZZGW0w%3A2%3A1670291561%3A-1%3A3336%3A%3AAcU3FSUgV8ngjq2JF7cGxvK63kBdiMDxujsO669xpw"
+			"value": "39%3AjCzazcABZZGW0w%3A2%3A1670291561%3A-1%3A3336%3A%3AAcWcM6Eh6E4pYxZDO8zsAmlcwCJpp60mi3aedOfiqw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678363220.755871,
+			"expirationDate": 1678464311.693657,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0R58RkJEY6keK0VTq.AWWxkQIjkOdcip6HccKZVnmcBfk.BjkyNV.Vc.AAA.0.0.BjkyNV.AWVk1HW7LNY"
+			"value": "0z9HeA4l8713ddNja.AWUnvI61nvTzS168k7A-tVBGx4g.BjlK45.Vc.AAA.0.0.BjlK45.AWV9aTZDXaY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670587307141%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670688401786%2C%22v%22%3A1%7D"
 		}
 	]
 }
