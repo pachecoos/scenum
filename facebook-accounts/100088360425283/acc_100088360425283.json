@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "12.12.2022 11:51 9 A 12 DIAS",
+	"lastEventDate": "12.12.2022 11:53 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088360425283",
 	"name": "bbrenborges",
-	"amountFriends": "73",
+	"amountFriends": "77",
 	"screenname": "Brena Borges",
 	"birthdate": "2002 February 16",
 	"country": "",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702221546.999969,
+			"expirationDate": 1702381876.918425,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,7 +64,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671290455,
+			"expirationDate": 1702381876.918533,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "9%3AcQ4LhVA3CMreXw%3A2%3A1670273712%3A-1%3A566%3A%3AAcVazs3pPBFcRTcscK2S8Mqm-BpzgRzN790Z4dMhew"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678621875.918591,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0MxahZSYDJE0zur4K.AWVFyWYGnWk6FTNJgJQ_yN2mBTU.BjlxW0.x6.AAA.0.0.BjlxW0.AWXLUUr747o"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1671450817,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -77,32 +103,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702221547.000002,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "9%3AcQ4LhVA3CMreXw%3A2%3A1670273712%3A-1%3A566%3A%3AAcWIDljIfb9P6qSqZbBfCaM1XgprVbfOMdBHdZiMDw"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678461545.000018,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0fqX01u3byfUCDbml.AWVLxHb_f9yl_X_3uMJPWat5dDE.BjlKNs.x6.AAA.0.0.BjlKNs.AWVor6UtrNk"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670685632769%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670845975541%2C%22v%22%3A1%7D"
 		}
 	]
 }
