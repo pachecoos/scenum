@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "13.12.2022 22:29 9 A 12 DIAS",
+	"lastEventDate": "13.12.2022 22:31 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088360425283",
 	"name": "bbrenborges",
-	"amountFriends": "77",
+	"amountFriends": "87",
 	"screenname": "Brena Borges",
 	"birthdate": "2002 February 16",
 	"country": "",
@@ -38,20 +38,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670878515.201315,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "pt_BR"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1702381876.918425,
+			"expirationDate": 1702506575.395076,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,33 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702381876.918533,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "9%3AcQ4LhVA3CMreXw%3A2%3A1670273712%3A-1%3A566%3A%3AAcVazs3pPBFcRTcscK2S8Mqm-BpzgRzN790Z4dMhew"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678621875.918591,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0MxahZSYDJE0zur4K.AWVFyWYGnWk6FTNJgJQ_yN2mBTU.BjlxW0.x6.AAA.0.0.BjlxW0.AWXLUUr747o"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671450817,
+			"expirationDate": 1671575489,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -103,6 +64,32 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1702506575.395106,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "9%3AcQ4LhVA3CMreXw%3A2%3A1670273712%3A-1%3A566%3A%3AAcUiYQs17ie2MjT87xPtZfTIpLRDJ9fGPCvWMYYdRLI"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678746574.395118,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0w6Hh9YQXGVzxGfal.AWVmZi6seAhAXl4WviJ_lXOrftY.BjmPzQ.x6.AAA.0.0.BjmPzQ.AWWHMCVc0S4"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -111,7 +98,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670845975541%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670970666789%2C%22v%22%3A1%7D"
 		}
 	]
 }
