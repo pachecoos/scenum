@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "14.12.2022 12:59 9 A 12 DIAS",
+	"lastEventDate": "14.12.2022 13:02 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088519867778",
 	"name": "camontess",
-	"amountFriends": "121",
+	"amountFriends": "152",
 	"screenname": "Carolina Montes",
 	"birthdate": "1999 December 16",
 	"country": "",
@@ -51,20 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670881863.032357,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "pt_BR"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1702417475.308502,
+			"expirationDate": 1702558805.558453,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671486381,
+			"expirationDate": 1671627726,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702417475.308535,
+			"expirationDate": 1702558805.558488,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -99,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "21%3A0FeRLnJzu_AnQQ%3A2%3A1670277059%3A-1%3A1383%3A%3AAcXhkfUV3WyHpyDv6jMsA0_CsNlpmKOVygpXBRESdg"
+			"value": "21%3A0FeRLnJzu_AnQQ%3A2%3A1670277059%3A-1%3A1383%3A%3AAcUguJznUg52wQHY2b4bmE9HzAXawYUlD3RbdrtNvw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678657474.308549,
+			"expirationDate": 1678798804.558502,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0KCWtEQQxbmfqq3Un.AWX4Xkax3C0yhF8h0NcR7X0fTbc.Bjl6DC.IK.AAA.0.0.Bjl6DC.AWVfuqNaTaw"
+			"value": "0wcmLCTaV4xH5XUgP.AWV3UGnWDCSmaSbNQ2HZU0ftMyo.BjmcjW.IK.AAA.0.0.BjmcjW.AWXY_C95t9Q"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670881557723%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671022883510%2C%22v%22%3A1%7D"
 		}
 	]
 }
