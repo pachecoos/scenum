@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "14.12.2022 11:57 9 A 12 DIAS",
+	"lastEventDate": "14.12.2022 11:59 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088263080285",
 	"name": "mirapachecos",
-	"amountFriends": "106",
+	"amountFriends": "125",
 	"screenname": "Mirela Pacheco",
 	"birthdate": "1997 September 9",
 	"country": "",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678708490.940516,
+			"expirationDate": 1678795080.267986,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -86,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0C1doUplTUK9EJHul.AWXVEt_Ea28A5hdejRvFDVWmNSA.BjmGf2.W9.AAA.0.0.BjmGgL.AWU_sxX9MQc"
+			"value": "0C1doUplTUK9EJHul.AWXBIU-BNosMRSaFZVznWQwyWOY.BjmGf2.W9.AAA.0.0.BjmbpI.AWVkwsiASc0"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671537392,
+			"expirationDate": 1671623965,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670932595230%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671019166939%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": "web.facebook.com",
@@ -123,7 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABb2CBbEypacCBMEFrrl79XzwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWGBaCmPm4DBYAABV-HEwAABYAFoyY-bgMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWChbSoMO5DBYAABWAARxMAAAWChbWoMO5DBYAABYaAA%22%2C%227%22%3A%22KLUv_SK4tyLdAACYGwRGAu6fw7kMJAAgFu6fw7kMAAP0AvSz1Ss%22%2C%2216%22%3A%22FQQVCBmcFQQVDCbSoMO5DBYAABUEFTom0qDDuQwWAAAVBBU8JtKgw7kMFgAAFQQVUiaMmPm4DBYAABUEFWAmooK4uQwWAAAVBBViJtKgw7kMFgAAFQQVaibSoMO5DBYAABUEFW4m0qDDuQwWAAAVBBV0JtKgw7kMFgAAFhQRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221670932496%22%7D%2C%22d%22%3A%2244ed4ac1-f729-49f4-a7a3-70180beda658%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaKCxbuj8XZAxMEFrrl79XzwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABa66s25DBYAABV-HEwAABYAFr7qzbkMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABbA6s25DBYAABWAARxMAAAWABbA6s25DBYAABYaAA%22%2C%227%22%3A%22KLUv_SK4tyLdAACYGwRGAr7qzbkMJAAgFr7qzbkMAAP0AvSz1Ss%22%2C%2216%22%3A%22FQQVCBmcFQQVDCbA6s25DBYAABUEFTomwOrNuQwWAAAVBBU8JsDqzbkMFgAAFQQVUibA6s25DBYAABUEFWAmwOrNuQwWAAAVBBViJsDqzbkMFgAAFQQVaibA6s25DBYAABUEFW4mwOrNuQwWAAAVBBV0JsDqzbkMFgAAFhQRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221671019167%22%7D%2C%22d%22%3A%2244ed4ac1-f729-49f4-a7a3-70180beda658%22%2C%22s%22%3A%220%22%7D"
 		}
 	]
 }
