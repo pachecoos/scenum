@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "14.12.2022 16:03 Farm 4 a 7 dias facebook",
+	"lastEventDate": "14.12.2022 16:05 Farm 4 a 7 dias facebook",
 	"status": 2,
 	"id": "100088734840456",
 	"name": "manoerod",
-	"amountFriends": "35",
+	"amountFriends": "49",
 	"screenname": "Manoela Rodrigues",
 	"birthdate": "1982 October 19",
 	"country": "",
@@ -51,20 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670982042.395015,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "pt_BR"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1702360006.542123,
+			"expirationDate": 1702569797.207922,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671428914,
+			"expirationDate": 1671638681,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702360006.542161,
+			"expirationDate": 1702569797.207956,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -99,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "29%3AhuCynRYB8yVcwQ%3A2%3A1670377241%3A-1%3A2386%3A%3AAcXRg7rNbJ-EgmLbYtME3IPf_lUjWSZEAv7A4Wc3Bg"
+			"value": "29%3AhuCynRYB8yVcwQ%3A2%3A1670377241%3A-1%3A2386%3A%3AAcVzNWWUrZQ-WnU75Bj37wpq8ZZ5S1OVdMhIaDQoGQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678600005.542177,
+			"expirationDate": 1678809796.207978,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0wrif1VseQgC6B9yp.AWWAxML5DAr86Krfth7TVDZZYCU.BjlsBH.wE.AAA.0.0.BjlsBH.AWXG8UHXEDg"
+			"value": "0T4WvzzSCiEK4k9eI.AWVWeAmPelm5f5V6R7IT2T-hwSk.BjmfPE.wE.AAA.0.0.BjmfPE.AWVioBKNCCY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100009378747352%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670824092095%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671033884063%2C%22v%22%3A1%7D"
 		}
 	]
 }
