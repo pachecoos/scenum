@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "14.12.2022 10:24 9 A 12 DIAS",
+	"lastEventDate": "14.12.2022 10:26 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088328806936",
 	"name": "niczemas",
-	"amountFriends": "49",
+	"amountFriends": "52",
 	"screenname": "Nicole Zema",
 	"birthdate": "1998 March 17",
 	"country": "",
@@ -51,20 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1670896362.319614,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "pt_BR"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1702379804.356535,
+			"expirationDate": 1702549484.589597,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,33 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702379804.356569,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "39%3AjCzazcABZZGW0w%3A2%3A1670291561%3A-1%3A3336%3A%3AAcWYJqfMADWdiR2mY0FxQIWazRj81lDmjbJd43_4fw"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678619803.356584,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0VvgDX1tUMrODzm5K.AWXZjxWUNvJ2zno-cXXA0ZVQYz8.Bjlw2c.Vc.AAA.0.0.Bjlw2c.AWXo3QRURiA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671448713,
+			"expirationDate": 1671618411,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -116,6 +77,32 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1702549484.58963,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "39%3AjCzazcABZZGW0w%3A2%3A1670291561%3A-1%3A3336%3A%3AAcUblR05ZrMTIEXBpq5nCKMvl_i4UiyR6aNcZMnKCA"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678789483.589644,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "04tA3S9HxRl7h6buY.AWUj0ZvuZtnsNQN0XGkHEtSzRVc.BjmaRt.Vc.AAA.0.0.BjmaRt.AWXE-m9-uiY"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -124,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670843890412%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671013588433%2C%22v%22%3A1%7D"
 		}
 	]
 }
