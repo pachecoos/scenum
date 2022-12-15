@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "12.12.2022 23:18 roteiro pequeno",
+	"lastEventDate": "15.12.2022 02:48 roteiro pequeno",
 	"status": 2,
 	"id": "100088461915563",
-	"name": "mileamartins",
-	"amountFriends": "37",
+	"name": "",
+	"amountFriends": "",
 	"screenname": "Milena Martins",
 	"birthdate": "1989 February 17",
 	"country": "",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702421092.840626,
+			"expirationDate": 1702167671.129892,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702421092.840656,
+			"expirationDate": 1702167671.129932,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,24 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "9%3ALjJAiUOrmvSbtw%3A2%3A1670631679%3A-1%3A-1%3A%3AAcUYBQ7NoDZ6YchI8JYoICkHnmsLRuPsSd5B7QiE5Q"
+			"value": "9%3ALjJAiUOrmvSbtw%3A2%3A1670631679%3A-1%3A-1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678661091.84067,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0fg2omuNgul87oKAm.AWX8ZUbBQt4Rtp7KZjUxc_ooo6w.Bjl67l.h4.AAA.0.0.Bjl67l.AWV9ihQmMSQ"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671490001,
+			"expirationDate": 1671420097,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -116,6 +103,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1678591178.506294,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0O6oSRtvHm0okWkkX.AWV-BRjlePEdelBGz5blTbpX7do.Bjk9CH.h4.AAA.0.0.Bjlp3L.AWUFvQe8IgQ"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670885178068%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1670815274420%2C%22v%22%3A1%7D"
 		}
 	]
 }
