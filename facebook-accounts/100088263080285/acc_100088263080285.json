@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "16.12.2022 13:47 9 A 12 DIAS",
+	"lastEventDate": "16.12.2022 13:49 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088263080285",
 	"name": "mirapachecos",
-	"amountFriends": "125",
+	"amountFriends": "152",
 	"screenname": "Mirela Pacheco",
 	"birthdate": "1997 September 9",
 	"country": "",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702468469.969736,
+			"expirationDate": 1702734457.622762,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,33 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702468469.969778,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "49%3A7f05F7V0IOn3Dg%3A2%3A1670325728%3A-1%3A5540%3A%3AAcV6kuoHT662MU-nZaa_0Zli-on5zz6X3WQLxQNgFw"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678795080.267986,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0C1doUplTUK9EJHul.AWXBIU-BNosMRSaFZVznWQwyWOY.BjmGf2.W9.AAA.0.0.BjmbpI.AWVkwsiASc0"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671623965,
+			"expirationDate": 1671803368,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -99,7 +73,33 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1440x708"
+			"value": "1440x712"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1702734457.622791,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "49%3A7f05F7V0IOn3Dg%3A2%3A1670325728%3A-1%3A5540%3A%3AAcWhwyqH_WoUioe6z67As-NeMlNpqHtiOQ82E8wY7K0"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678974456.622803,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0GYIE1FW5rx0W0j42.AWU-kRnH4fETNIRMXFUGFTlevZI.BjnHb6.W9.AAA.0.0.BjnHb6.AWWEknb1MTE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671019166939%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671198545332%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": "web.facebook.com",
@@ -123,7 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABaKCxbuj8XZAxMEFrrl79XzwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABa66s25DBYAABV-HEwAABYAFr7qzbkMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABbA6s25DBYAABWAARxMAAAWABbA6s25DBYAABYaAA%22%2C%227%22%3A%22KLUv_SK4tyLdAACYGwRGAr7qzbkMJAAgFr7qzbkMAAP0AvSz1Ss%22%2C%2216%22%3A%22FQQVCBmcFQQVDCbA6s25DBYAABUEFTomwOrNuQwWAAAVBBU8JsDqzbkMFgAAFQQVUibA6s25DBYAABUEFWAmwOrNuQwWAAAVBBViJsDqzbkMFgAAFQQVaibA6s25DBYAABUEFW4mwOrNuQwWAAAVBBV0JsDqzbkMFgAAFhQRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221671019167%22%7D%2C%22d%22%3A%2244ed4ac1-f729-49f4-a7a3-70180beda658%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABb8Eha-xcPVAhMEFrrl79XzwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABaY3eO5DBYAABV-HEwAABYAFqLd47kMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABak3eO5DBYAABWAARxMAAAWABak3eO5DBYAABYaAA%22%2C%227%22%3A%22KLUv_SK4tyLdAACYGwRGAqLd47kMJAAgFqLd47kMAAP0AvSz1Ss%22%2C%2216%22%3A%22FQQVCBmcFQQVDCak3eO5DBYAABUEFTompN3juQwWAAAVBBU8JqTd47kMFgAAFQQVUiak3eO5DBYAABUEFWAmpN3juQwWAAAVBBViJqTd47kMFgAAFQQVaiak3eO5DBYAABUEFW4mpN3juQwWAAAVBBV0JqTd47kMFgAAFhQRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221671198545%22%7D%2C%22d%22%3A%2244ed4ac1-f729-49f4-a7a3-70180beda658%22%2C%22s%22%3A%220%22%7D"
 		}
 	]
 }
