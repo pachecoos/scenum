@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "18.12.2022 22:07 9 A 12 DIAS",
+	"lastEventDate": "18.12.2022 22:09 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088519867778",
 	"name": "camontess",
-	"amountFriends": "178",
+	"amountFriends": "226",
 	"screenname": "Carolina Montes",
 	"birthdate": "1999 December 16",
 	"country": "",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702741737.193366,
+			"expirationDate": 1702937263.549529,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671810620,
+			"expirationDate": 1672006175,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702741737.193395,
+			"expirationDate": 1702937263.549565,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "21%3A0FeRLnJzu_AnQQ%3A2%3A1670277059%3A-1%3A1383%3A%3AAcVBd2XRpvvNRxtTPWx2l1PZpjBTWxUHEgJj1cOi7g"
+			"value": "21%3A0FeRLnJzu_AnQQ%3A2%3A1670277059%3A-1%3A1383%3A%3AAcWCzjuC2w05XD1oRqBvpa66R6XE7Ze-KAmfPyccvjk"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678981736.193408,
+			"expirationDate": 1679177262.54958,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "07CSVxHoxBppYSB84.AWX6xcOnoojOo7LwSm7tbZsGV80.BjnJNp.IK.AAA.0.0.BjnJNp.AWUa47uGhCk"
+			"value": "0FXQnVXQu9M7q0BlA.AWVeN291pGtUBYbglhO3c8EI-zA.Bjn48u.IK.AAA.0.0.Bjn48u.AWUM5Nfa5Gs"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671205823321%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671401351826%2C%22v%22%3A1%7D"
 		}
 	]
 }
