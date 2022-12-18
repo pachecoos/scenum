@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "18.12.2022 17:10 4 A 8 DIAS ",
+	"lastEventDate": "18.12.2022 17:12 4 A 8 DIAS ",
 	"status": 2,
 	"id": "100088734840456",
 	"name": "manoerod",
-	"amountFriends": "49",
+	"amountFriends": "61",
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -47,7 +47,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702730085.046191,
+			"expirationDate": 1702919427.737465,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -60,7 +60,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702730085.046224,
+			"expirationDate": 1671988311,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1440x712"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1702919427.737503,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -69,11 +82,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "29%3AhuCynRYB8yVcwQ%3A2%3A1670377241%3A-1%3A2538%3A%3AAcXOBmh05hLkiFIG8UxYuxD8RSnTm3odwBIiu0tLxQ"
+			"value": "29%3AhuCynRYB8yVcwQ%3A2%3A1670377241%3A-1%3A2538%3A%3AAcVMvp_gzT3bOxkugKVquTe1WbXRniPbC-M02rCacA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678970399.337829,
+			"expirationDate": 1679159426.737556,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -82,7 +95,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0vwQQd220krcXqgia.AWXihzCzvMCRIzdE-XS32PsN50k.BjnGXl.wE.AAA.0.0.BjnGcf.AWUtTqpBHqw"
+			"value": "0inmM4Qhcd55nx0p0.AWXNiwaMNvsl5RqPOmrtCqm66uw.Bjn0mD.wE.AAA.0.0.Bjn0mD.AWVFspPMM6I"
 		},
 		{
 			"domain": ".facebook.com",
@@ -94,20 +107,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671194510072%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671799315,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1440x708"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671383514427%2C%22v%22%3A1%7D"
 		}
-	]
+	],
+	"screenname": "Manoela Rodrigues",
+	"birthdate": "1982 October 19",
+	"country": "",
+	"isAvatarExists": false
 }
