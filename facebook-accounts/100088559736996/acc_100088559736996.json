@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "19.12.2022 02:42 9 A 12 DIAS",
+	"lastEventDate": "19.12.2022 12:18 roteiro pequeno",
 	"status": 2,
 	"id": "100088559736996",
 	"name": "fontanaju",
-	"amountFriends": "197",
+	"amountFriends": "167",
 	"screenname": "Juliana Fontes",
 	"birthdate": "1983 November 18",
 	"country": "",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702951958.113858,
+			"expirationDate": 1702814982.919274,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,20 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672020873,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1440x712"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1702951958.113897,
+			"expirationDate": 1702814982.919384,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +73,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "2%3ALuTZFeSEiXBKwA%3A2%3A1670374464%3A-1%3A5548%3A%3AAcUkFjLi0zWe04hwX6Saiy9bth8qZHX2wy43OR17C_k"
+			"value": "2%3ALuTZFeSEiXBKwA%3A2%3A1670374464%3A-1%3A5548%3A%3AAcXKez_Cs1L2piMaJRGSSJcOGg60ZqYOhzSu3xvjIQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679191957.113913,
+			"expirationDate": 1679054981.919446,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +86,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0SbYJBqyI4mx8x1bn.AWWeKvCwEdSeMb9b0IxXwXX2MkA.Bjn8iX.uH.AAA.0.0.Bjn8iX.AWWE3ReH20A"
+			"value": "0gkG6vbjDo6WVZ6Db.AWVSbN38TlNHI0cdz-gicAQYE0k.BjnbGG.uH.AAA.0.0.BjnbGG.AWWBnIK3nLQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,7 +98,20 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671416050002%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671279086457%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1671883928,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1440x712"
 		}
 	]
 }
