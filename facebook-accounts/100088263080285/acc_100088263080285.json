@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "19.12.2022 10:56 9 A 12 DIAS",
+	"lastEventDate": "19.12.2022 10:58 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088263080285",
 	"name": "mirapachecos",
-	"amountFriends": "177",
+	"amountFriends": "224",
 	"screenname": "Mirela Pacheco",
 	"birthdate": "1997 September 9",
 	"country": "",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702916280.003297,
+			"expirationDate": 1702983382.017242,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671985228,
+			"expirationDate": 1672052287,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702916280.003414,
+			"expirationDate": 1702983382.017271,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "49%3A7f05F7V0IOn3Dg%3A2%3A1670325728%3A-1%3A5540%3A%3AAcXrut2VPh8zYBgb_I_9jpAQ0FA9Zh_8_-bAho0-7BM"
+			"value": "49%3A7f05F7V0IOn3Dg%3A2%3A1670325728%3A-1%3A5540%3A%3AAcUn3M22ZGX7ZFCo57g1qKJYvNJ3KTWwGnaTeDkPB0M"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679156279.003472,
+			"expirationDate": 1679223381.017284,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0iqX0o6u3kr0iUDZE.AWUC5nv-jRPpFFJBt8z9AYVN-AI.Bjnz03.W9.AAA.0.0.Bjnz03.AWU6TjctiII"
+			"value": "0JbIU2sigqXnAgfvM.AWWtuMoIEf7JZ-e2or6PqJdMpc8.BjoENW.W9.AAA.0.0.BjoENW.AWVCMv6pDxY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671380384589%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671447464127%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": "web.facebook.com",
@@ -123,7 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbyFRbO-dCXChMEFrrl79XzwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABa29vm5DBYAABV-HEwAABYAFsD2-bkMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABbC9vm5DBYAABWAARxMAAAWABbC9vm5DBYAABYaAA%22%2C%2216%22%3A%22FQQVCBmcFQQVDCbC9vm5DBYAABUEFTomwvb5uQwWAAAVBBU8JsL2-bkMFgAAFQQVUibC9vm5DBYAABUEFWAmwvb5uQwWAAAVBBViJsL2-bkMFgAAFQQVaibC9vm5DBYAABUEFW4mwvb5uQwWAAAVBBV0JsL2-bkMFgAAFhQRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221671380384%22%7D%2C%22d%22%3A%2244ed4ac1-f729-49f4-a7a3-70180beda658%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbkGhaQtuJhEwQWuuXv1fPBLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABbGjoK6DBYAABV-HEwAABYAFtCOgroMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABbSjoK6DBYAABWAARxMAAAWABbSjoK6DBYAABYaAA%22%2C%227%22%3A%22KLUv_SK4tyLdAACYGwRGAtCOgroMJAAgFtCOgroMAAP0AvSz1Ss%22%2C%2216%22%3A%22FQQVCBmcFQQVDCbSjoK6DBYAABUEFTom0o6CugwWAAAVBBU8JtKOgroMFgAAFQQVUibSjoK6DBYAABUEFWAm0o6CugwWAAAVBBViJtKOgroMFgAAFQQVaibSjoK6DBYAABUEFW4m0o6CugwWAAAVBBV0JtKOgroMFgAAFhQRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221671447464%22%7D%2C%22d%22%3A%2244ed4ac1-f729-49f4-a7a3-70180beda658%22%2C%22s%22%3A%220%22%7D"
 		}
 	]
 }
