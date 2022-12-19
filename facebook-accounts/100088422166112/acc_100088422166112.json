@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "17.12.2022 18:51 4 A 8 DIAS ",
+	"lastEventDate": "19.12.2022 00:41 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088422166112",
 	"name": "sampacamila",
-	"amountFriends": "123",
+	"amountFriends": "94",
 	"screenname": "Camila Sampaio",
 	"birthdate": "1989 August 22",
 	"country": "",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702837222.061716,
+			"expirationDate": 1702727566.895242,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,20 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702837222.061751,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "11%3A6PwtwR8pMsH3TQ%3A2%3A1670603426%3A-1%3A3188%3A%3AAcWjOvWGSNUgilNjqke98eMaKg7345-8_VdeE5UQHQ"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1671906381,
+			"expirationDate": 1671796479,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,7 +77,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679077469.176374,
+			"expirationDate": 1702727566.895274,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "11%3A6PwtwR8pMsH3TQ%3A2%3A1670603426%3A-1%3A3188%3A%3AAcX_ZFPVPTKyxgETARt_ZOoiFwZdywbIKwAAEgdciQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678967565.895286,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "021hWShiHykroi874.AWW9Bo1g7lp4rP-24FCYR9tDN54.Bjnghl.T3.AAA.0.0.Bjngld.AWWdmgl2gXY"
+			"value": "0nAkFfyu4csTLG39B.AWWYIPAQPs-6Id-DHZJL7oKbmG4.BjnFwP.T3.AAA.0.0.BjnFwP.AWXD6gMYapE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671301558337%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671191655042%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": "web.facebook.com",
@@ -123,7 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbADxaGtrKNBRMEFsC5y-30wS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABbgpvC5DBYAABV-HEwAABYAFuym8LkMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABbupvC5DBYAABWAARxMAAAWABbupvC5DBYAABYaAA%22%2C%227%22%3A%22KLUv_Sa4tyLVAAAzAQTuVdwcaUNFJ1_FzZE2D4NWA_QC9LPVK9VOggQ%22%2C%2216%22%3A%22FQQVCBmcFQQVDCbupvC5DBYAABUEFTom7qbwuQwWAAAVBBU8Ju6m8LkMFgAAFQQVUibupvC5DBYAABUEFWAm7qbwuQwWAAAVBBViJu6m8LkMFgAAFQQVaibupvC5DBYAABUEFW4m7qbwuQwWAAAVBBV0Ju6m8LkMFgAAFhgRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221671301558%22%7D%2C%22d%22%3A%22148bc526-bb69-437d-92e2-75a6ea04421a%22%2C%22s%22%3A%220%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABacChbyrvhWEwQWwLnL7fTBLQA%22%2C%222%22%3A%22GSwVQBxMAAAWABbM8eK5DBYAABV-HEwAABYAFtLx4rkMFgAAFhoA%22%2C%225%22%3A%22GSwVNBxMAAAWABbU8eK5DBYAABWAARxMAAAWABbU8eK5DBYAABYaAA%22%2C%227%22%3A%22KLUv_SK4tyLdAACYGwRGAtLx4rkMJAAgFtLx4rkMAAP0AvSz1Ss%22%2C%2216%22%3A%22FQQVCBmcFQQVDCbU8eK5DBYAABUEFTom1PHiuQwWAAAVBBU8JtTx4rkMFgAAFQQVUibU8eK5DBYAABUEFWAm1PHiuQwWAAAVBBViJtTx4rkMFgAAFQQVaibU8eK5DBYAABUEFW4m1PHiuQwWAAAVBBV0JtTx4rkMFgAAFhYRAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221671191657%22%7D%2C%22d%22%3A%22148bc526-bb69-437d-92e2-75a6ea04421a%22%2C%22s%22%3A%220%22%7D"
 		}
 	]
 }
