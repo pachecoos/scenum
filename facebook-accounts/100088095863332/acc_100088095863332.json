@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "16.12.2022 01:59 9 A 12 DIAS",
+	"lastEventDate": "20.12.2022 01:52 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088095863332",
 	"name": "resendesnu",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702689931.779197,
+			"expirationDate": 1702606418.709487,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -76,20 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1671758824,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1440x712"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1702689931.779232,
+			"expirationDate": 1702606418.70952,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -98,11 +85,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "13%3Al72wxV6PyIk2jw%3A2%3A1670015062%3A-1%3A1849%3A%3AAcXwQYk0xdp8ECKzQ9h0yaaPL-XF5HGAr7j0wKj6KLk"
+			"value": "13%3Al72wxV6PyIk2jw%3A2%3A1670015062%3A-1%3A1849%3A%3AAcWxVSVH6R5t0hEZ-9rPCSptrKy7zraYvaMigA3S_ng"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678929930.779249,
+			"expirationDate": 1678846417.709534,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -111,7 +98,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "07aYLN5tPQOzIRskv.AWWkDNcgMOgu0q5I5HqriKCBC6s.Bjm8kM.PL.AAA.0.0.Bjm8kM.AWV0jgt3_hE"
+			"value": "0kNDMJKuIcJsFmekQ.AWVOvjXe1yHa5fCDEniZBmINqMU.BjmoLS.PL.AAA.0.0.BjmoLS.AWWnAd1umY0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -123,7 +110,20 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671154022084%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671070509207%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1671675312,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1440x712"
 		}
 	]
 }
