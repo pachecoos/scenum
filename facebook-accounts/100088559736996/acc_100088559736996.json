@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "21.12.2022 14:02 9 A 12 DIAS",
+	"lastEventDate": "21.12.2022 14:04 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088559736996",
 	"name": "fontanaju",
-	"amountFriends": "167",
+	"amountFriends": "263",
 	"screenname": "Juliana Fontes",
 	"birthdate": "1983 November 18",
 	"country": "",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702988758.58798,
+			"expirationDate": 1703167336.257109,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672057711,
+			"expirationDate": 1672236249,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702988758.588013,
+			"expirationDate": 1703167336.257139,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "2%3ALuTZFeSEiXBKwA%3A2%3A1670374464%3A-1%3A5548%3A%3AAcWfXxXcURNRQhKwCNCQ6z0m5K_7jFHhnp6NRlNxCB8"
+			"value": "2%3ALuTZFeSEiXBKwA%3A2%3A1670374464%3A-1%3A5548%3A%3AAcWA3aTifG_J3CBGc2cA90swJAxabEl0v_jgBsZOTso"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679228756.588027,
+			"expirationDate": 1679407335.257152,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0qSH6NtVTn4G94u7t.AWWzcKDnYKklv5jERLUo4IET_S4.BjoFhX.uH.AAA.0.0.BjoFhX.AWXttdTciqE"
+			"value": "0VITbA8qaMU8cvMii.AWVijCZiQKo2SR1VsuYgTPka6M4.BjoxHm.uH.AAA.0.0.BjoxHm.AWWJm4fJXbA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671452868189%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671631426192%2C%22v%22%3A1%7D"
 		}
 	]
 }
