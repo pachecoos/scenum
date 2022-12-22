@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "22.12.2022 00:58 roteiro pequeno",
+	"lastEventDate": "22.12.2022 01:00 roteiro pequeno",
 	"status": 2,
 	"id": "100088422166112",
 	"name": "sampacamila",
-	"amountFriends": "161",
+	"amountFriends": "193",
 	"screenname": "Camila Sampaio",
 	"birthdate": "1989 August 22",
 	"country": "",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703069309.67232,
+			"expirationDate": 1703206748.310423,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -76,7 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672138221,
+			"expirationDate": 1672275631,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -89,7 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703069309.672361,
+			"expirationDate": 1703206748.310454,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -98,11 +98,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "11%3A6PwtwR8pMsH3TQ%3A2%3A1670603426%3A-1%3A3188%3A%3AAcUtUJrrFSJ_hXMOEdocMDBZxsUVwg6FQd1Eiuk-iA"
+			"value": "11%3A6PwtwR8pMsH3TQ%3A2%3A1670603426%3A-1%3A3188%3A%3AAcXXaRTSrbWV6w8nykA2pXfWfZd7j_SjFFXPxEEHwg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679309308.672374,
+			"expirationDate": 1679446747.310469,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0OFzrfq38xWn1NdIB.AWUxS0PARPNgex9sbe9O9Rwe9Ig.BjoZL8.T3.AAA.0.0.BjoZL8.AWVGpCqXLuM"
+			"value": "0IXJPBv7Lbx54ZZSQ.AWUdJ_hmc7bKnqovJfTX5KhA2Go.Bjo6vd.T3.AAA.0.0.Bjo6vd.AWVAEcF0nWU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -123,7 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100024305150130%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671533398427%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671670835249%2C%22v%22%3A1%7D"
 		}
 	]
 }
