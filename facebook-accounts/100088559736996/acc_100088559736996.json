@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "22.12.2022 00:03 roteiro pequeno",
+	"lastEventDate": "22.12.2022 00:06 roteiro pequeno",
 	"status": 2,
 	"id": "100088559736996",
 	"name": "fontanaju",
-	"amountFriends": "263",
+	"amountFriends": "286",
 	"screenname": "Juliana Fontes",
 	"birthdate": "1983 November 18",
 	"country": "",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703167336.257109,
+			"expirationDate": 1703203451.612165,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672236249,
+			"expirationDate": 1672272365,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703167336.257139,
+			"expirationDate": 1703203451.612202,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "2%3ALuTZFeSEiXBKwA%3A2%3A1670374464%3A-1%3A5548%3A%3AAcWA3aTifG_J3CBGc2cA90swJAxabEl0v_jgBsZOTso"
+			"value": "2%3ALuTZFeSEiXBKwA%3A2%3A1670374464%3A-1%3A5548%3A%3AAcXf5pxYLwfFIAeFTtYNmLewA5WlSBQVNaPNejv-kyM"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679407335.257152,
+			"expirationDate": 1679443450.612218,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0VITbA8qaMU8cvMii.AWVijCZiQKo2SR1VsuYgTPka6M4.BjoxHm.uH.AAA.0.0.BjoxHm.AWWJm4fJXbA"
+			"value": "0Ly08TA0QZvYQXR2p.AWXuD_Br88FZssOhizPA0Lo5Ysc.Bjo578.uH.AAA.0.0.Bjo578.AWUC0gUuZec"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671631426192%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671667522498%2C%22v%22%3A1%7D"
 		}
 	]
 }
