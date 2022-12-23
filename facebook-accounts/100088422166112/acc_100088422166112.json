@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "23.12.2022 13:57 9 A 12 DIAS",
+	"lastEventDate": "23.12.2022 13:59 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088422166112",
 	"name": "sampacamila",
-	"amountFriends": "214",
+	"amountFriends": "245",
 	"screenname": "Camila Sampaio",
 	"birthdate": "1989 August 22",
 	"country": "",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703296950.4523,
+			"expirationDate": 1703339627.472519,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -76,7 +76,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672365862,
+			"expirationDate": 1703339627.47255,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "11%3A6PwtwR8pMsH3TQ%3A2%3A1670603426%3A-1%3A3188%3A%3AAcUJk3uRDIWoqomAs6GDk55LK_nJ62N0k659O0N2kQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672408732,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -89,20 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703296950.452333,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "11%3A6PwtwR8pMsH3TQ%3A2%3A1670603426%3A-1%3A3188%3A%3AAcWZfBkwVHQMcXqyvLU3c-LhiVNSAvhXPbU4P7BwkA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679536949.452347,
+			"expirationDate": 1679579848.914422,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "021cdPRPXiRC3y8JN.AWXvf1w4fwp2d-1aIK7Q3WT9Kug.BjpQw2.T3.AAA.0.0.BjpQw2.AWVsJNuDac8"
+			"value": "0th2xeVdpngEuab1Q.AWVMXV1rur7SlSBPvkG7K9P2rWc.BjpbLr.T3.AAA.0.0.BjpbPJ.AWV-pnZ8W0Q"
 		},
 		{
 			"domain": ".facebook.com",
@@ -123,7 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671761038791%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671803935444%2C%22v%22%3A1%7D"
 		}
 	]
 }
