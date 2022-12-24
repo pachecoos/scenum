@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "24.12.2022 22:36 roteiro pequeno",
+	"lastEventDate": "24.12.2022 22:38 roteiro pequeno",
 	"status": 2,
 	"id": "100088263080285",
 	"name": "mirapachecos",
-	"amountFriends": "286",
+	"amountFriends": "290",
 	"screenname": "Mirela Pacheco",
 	"birthdate": "1997 September 9",
 	"country": "",
@@ -89,7 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679696102.167497,
+			"expirationDate": 1679697392.448395,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -98,7 +98,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0vTTF5IPcgn1KWBlz.AWURzOxHPFL8Lo6bqvAhQw7vfAQ.Bjp3nn.W9.AAA.0.0.Bjp3nn.AWW_J42SJ_0"
+			"value": "0vTTF5IPcgn1KWBlz.AWX7LBUNCpxe3atrInMgW39Yijw.Bjp3nn.W9.AAA.0.0.Bjp37x.AWWbe4fr308"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672526302,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1440x712"
 		},
 		{
 			"domain": ".facebook.com",
@@ -110,20 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671920206458%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1672525029,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1440x757"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671921479590%2C%22v%22%3A1%7D"
 		}
 	]
 }
