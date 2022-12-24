@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "24.12.2022 22:14 9 A 12 DIAS",
+	"lastEventDate": "24.12.2022 22:17 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088263080285",
 	"name": "mirapachecos",
-	"amountFriends": "273",
+	"amountFriends": "286",
 	"screenname": "Mirela Pacheco",
 	"birthdate": "1997 September 9",
 	"country": "",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703331183.947157,
+			"expirationDate": 1703456103.16745,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -76,20 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672400065,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1440x712"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1703331183.947184,
+			"expirationDate": 1703456103.167483,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -98,11 +85,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "49%3A7f05F7V0IOn3Dg%3A2%3A1670325728%3A-1%3A5540%3A%3AAcUsQbsCAfiW_4aAFAQwr-c2VRgVry4HGiWzIVT6bXM"
+			"value": "49%3A7f05F7V0IOn3Dg%3A2%3A1670325728%3A-1%3A5540%3A%3AAcWPcMDT4xStVTfHVPbhN8UE2zfKWbP_0urcAItEtvw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679571181.947197,
+			"expirationDate": 1679696102.167497,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -111,7 +98,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0MHjZuzsQTUG06NUE.AWXK8CjlhrBsQEdWyJ30mgoaLX0.BjpZHw.W9.AAA.0.0.BjpZHw.AWX7sgg-VBw"
+			"value": "0vTTF5IPcgn1KWBlz.AWURzOxHPFL8Lo6bqvAhQw7vfAQ.Bjp3nn.W9.AAA.0.0.Bjp3nn.AWW_J42SJ_0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -123,7 +110,20 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671795269357%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671920206458%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672525029,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1440x757"
 		}
 	]
 }
