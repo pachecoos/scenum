@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "25.12.2022 14:59 9 A 12 DIAS",
+	"lastEventDate": "25.12.2022 15:01 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088461915563",
 	"name": "mileamartins",
-	"amountFriends": "317",
+	"amountFriends": "337",
 	"screenname": "Milena Martins",
 	"birthdate": "1989 February 17",
 	"country": "",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703460911.794393,
+			"expirationDate": 1703516382.63355,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672529818,
+			"expirationDate": 1672585295,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -77,7 +77,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703460911.794435,
+			"expirationDate": 1703516382.633586,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "9%3ALjJAiUOrmvSbtw%3A2%3A1670631679%3A-1%3A5551%3A%3AAcVXapiiELw6mpXJxw4DzgZoF7kOcAwHbRR-OPwZGQ"
+			"value": "9%3ALjJAiUOrmvSbtw%3A2%3A1670631679%3A-1%3A5551%3A%3AAcWazFkyfThfNqRndkerRjleonobqYVSeVZVeY2---A"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679700910.794447,
+			"expirationDate": 1679756381.633601,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -99,7 +99,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0CStlISlLgPmbse0H.AWX8OvJWY_Uwnrb9awYWvv62Xzk.Bjp4yw.h4.AAA.0.0.Bjp4yw.AWXjyGriCOQ"
+			"value": "0I9SCrZHljEAA3cuq.AWW_Vsmq9Abw2hQxhksyc5rl7xY.BjqGVd.h4.AAA.0.0.BjqGVd.AWWHXIGOlpY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671924995420%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671980472590%2C%22v%22%3A1%7D"
 		}
 	]
 }
