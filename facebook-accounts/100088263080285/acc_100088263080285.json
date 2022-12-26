@@ -1,6 +1,6 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "26.12.2022 03:04 roteiro pequeno",
+	"lastEventDate": "26.12.2022 03:06 roteiro pequeno",
 	"status": 2,
 	"id": "100088263080285",
 	"name": "mirapachecos",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703456103.16745,
+			"expirationDate": 1703559861.117897,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -76,7 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703456103.167483,
+			"expirationDate": 1703559861.11794,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -85,11 +85,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "49%3A7f05F7V0IOn3Dg%3A2%3A1670325728%3A-1%3A5540%3A%3AAcWPcMDT4xStVTfHVPbhN8UE2zfKWbP_0urcAItEtvw"
+			"value": "49%3A7f05F7V0IOn3Dg%3A2%3A1670325728%3A-1%3A5540%3A%3AAcXAoDLtGcVgO2OqqZREc-ERXVesoSXZryG1BFDyLA8"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679697392.448395,
+			"expirationDate": 1679799860.117958,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -98,11 +98,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0vTTF5IPcgn1KWBlz.AWX7LBUNCpxe3atrInMgW39Yijw.Bjp3nn.W9.AAA.0.0.Bjp37x.AWWbe4fr308"
+			"value": "0G2NDticpnNsrpinn.AWWmi4N8ltkEFbJu9DTTP4aiM_s.BjqQ82.W9.AAA.0.0.BjqQ82.AWXDTRkEWnA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672526302,
+			"expirationDate": 1672628780,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -123,7 +123,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671921479590%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672023956098%2C%22v%22%3A1%7D"
 		}
 	]
 }
