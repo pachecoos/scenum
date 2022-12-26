@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "26.12.2022 17:27 roteiro pequeno",
+	"lastEventDate": "26.12.2022 17:29 roteiro pequeno",
 	"status": 2,
 	"id": "100088734840456",
 	"name": "manoerod",
-	"amountFriends": "137",
+	"amountFriends": "158",
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -47,7 +47,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703525380.587879,
+			"expirationDate": 1703611638.047718,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -60,7 +60,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672594293,
+			"expirationDate": 1703611638.047758,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "29%3AhuCynRYB8yVcwQ%3A2%3A1670377241%3A-1%3A2556%3A%3AAcWZ9vFP7B-_3nKymRruQrfH3ydz9Mix_RNHku3AeQ0"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679851637.047773,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0JyKtgfmhZCfdACma.AWUIC_3tCBy-z1fBsVRUAjr8KKM.Bjqdl2.wE.AAA.0.0.Bjqdl2.AWVtOqz1LQ8"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1672680528,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -73,32 +99,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703525380.587912,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "29%3AhuCynRYB8yVcwQ%3A2%3A1670377241%3A-1%3A2556%3A%3AAcXDswftqOQd9r5szTRh7j-0w0BYWOJM3fKA3zZ3FCA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679765379.587925,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0oFr3BMQF6cS3ypW4.AWWFYqePo-7R1BvDyiviPpmvxuw.BjqIiE.wE.AAA.0.0.BjqIiE.AWURReE770I"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -107,7 +107,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671989470733%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672075731643%2C%22v%22%3A1%7D"
 		}
 	],
 	"screenname": "Manoela Rodrigues",
