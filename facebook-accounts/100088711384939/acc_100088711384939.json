@@ -1,10 +1,10 @@
 {
 	"sn": "facebook",
-	"lastEventDate": "26.12.2022 04:10 roteiro pequeno",
+	"lastEventDate": "26.12.2022 04:12 roteiro pequeno",
 	"status": 2,
 	"id": "100088711384939",
 	"name": "lazzarubi",
-	"amountFriends": "130",
+	"amountFriends": "145",
 	"screenname": "Rubia Lazzaris",
 	"birthdate": "1988 May 18",
 	"country": "",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703451497.637326,
+			"expirationDate": 1703563862.216388,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703451497.637356,
+			"expirationDate": 1703563862.216423,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -73,11 +73,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "33%3AzktVPiK0r7pWjA%3A2%3A1670607734%3A-1%3A1821%3A%3AAcXF3byOmFIO3eL6eN6e4YATM70kZjdbH1NKI_WAwEg"
+			"value": "33%3AzktVPiK0r7pWjA%3A2%3A1670607734%3A-1%3A1821%3A%3AAcUdrOR-aqE5ku1_blG-Hhu_Bv8fHTLxyV9Nz34xc04"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679691896.58156,
+			"expirationDate": 1679803861.216438,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -86,11 +86,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Ep3hAzMN0d6jdN86.AWW6fejNC1BaKXiiFcsW3hPrZeI.Bjp2fq.Qo.AAA.0.0.Bjp2l5.AWXCUAX39SU"
+			"value": "0RRLV7Ykd6s255QGf.AWXmHXwC_t-bCdcGEoUN2oNfdBY.BjqR7X.Qo.AAA.0.0.BjqR7X.AWUPNjJfLGw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672520784,
+			"expirationDate": 1672632774,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,7 +111,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1671915988714%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672027950693%2C%22v%22%3A1%7D"
 		}
 	]
 }
