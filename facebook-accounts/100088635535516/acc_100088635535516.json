@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "29.12.2022 21:46 roteiro pequeno",
+	"lastEventDate": "29.12.2022 21:47 roteiro pequeno",
 	"status": 2,
 	"id": "100088635535516",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "85",
 	"screenname": "Aparecida Cristiane Aragão",
 	"birthdate": "1983 August 16",
 	"country": "Brazil",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703778878.811567,
+			"expirationDate": 1703886388.391402,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,33 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703778878.8116,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "27%3ABsqqdUYwAFeKNA%3A2%3A1672014624%3A-1%3A-1%3A%3AAcVvgBlLstK8jeNHiY12jadpIug8nX-PrXTqoQj9Gw"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1680018877.811615,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0L67PzHlnOoYKbOWm.AWW0d_3ZKiTgSsztfqgEqNtwHR8.BjrGa_.Js.AAA.0.0.BjrGa_.AWXW-CdvErE"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1672847767,
+			"expirationDate": 1672955276,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -117,6 +91,32 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1703886388.391516,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "27%3ABsqqdUYwAFeKNA%3A2%3A1672014624%3A-1%3A1385%3A%3AAcVKLwQFU4PBUZc5B8QyIKqKCGJhR_fW8laS2B3-Ug"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1680126387.391589,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0N0j2LJQGVMTLbBrj.AWXfpvLOaM106ueLzRMAD2V0XK4.Bjrgqy.Js.AAA.0.0.Bjrgqy.AWUI15TZ6r0"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672242964831%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100089014150300%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672350473535%2C%22v%22%3A1%7D"
 		}
 	]
 }
