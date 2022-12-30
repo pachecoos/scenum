@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "30.12.2022 14:06 Farm 4 a 7 dias facebook",
+	"lastEventDate": "30.12.2022 14:08 Farm 4 a 7 dias facebook",
 	"status": 2,
 	"id": "100088746800642",
 	"name": "",
-	"amountFriends": "89",
+	"amountFriends": "102",
 	"screenname": "Carla Luiza Figueiredo",
 	"birthdate": "1989 February 16",
 	"country": "",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703883456.043645,
+			"expirationDate": 1703945234.920547,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672952354,
+			"expirationDate": 1673014120,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703883456.043802,
+			"expirationDate": 1703945234.920581,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "30%3AkLGxn0bZGVSbDQ%3A2%3A1672017110%3A-1%3A2779%3A%3AAcX25kv2XZiu_2Gf0F_OIjiHqbMWIdFaLcKfTGk7tg"
+			"value": "30%3AkLGxn0bZGVSbDQ%3A2%3A1672017110%3A-1%3A2779%3A%3AAcUfRkWtC89XJTXuLsp_xl15j-cQrLWxMDT3t832rA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680123455.043873,
+			"expirationDate": 1680185233.920597,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0XFHb4BalW9OW1bBO.AWWtdN-GM9RhsAx0DPCQ8QG-keI.Bjrf88.dK.AAA.0.0.Bjrf88.AWWn0rx1Wwo"
+			"value": "0vMwIczFPXhIyCkkw.AWUtORqmmibYLCM02xaxxwMMWjQ.BjrvCT.dK.AAA.0.0.BjrvCT.AWV-W1zzEG8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100052554690987%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.102085785789834%22%7D%2C%7B%22i%22%3A%22u.100086377473372%22%7D%5D%2C%22utc3%22%3A1672347531828%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100052554690987%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22g.5467365646666118%22%7D%2C%7B%22i%22%3A%22u.102085785789834%22%7D%2C%7B%22i%22%3A%22u.100086377473372%22%7D%5D%2C%22utc3%22%3A1672409297160%2C%22v%22%3A1%7D"
 		}
 	]
 }
