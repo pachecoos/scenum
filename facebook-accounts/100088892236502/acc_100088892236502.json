@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "31.12.2022 16:36 roteiro pequeno",
+	"lastEventDate": "31.12.2022 16:39 roteiro pequeno",
 	"status": 2,
 	"id": "100088892236502",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "61",
 	"screenname": "Vera Benedita Moura",
 	"birthdate": "1989 April 14",
 	"country": "",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703967787.409038,
+			"expirationDate": 1704040618.117003,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,33 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703967787.409096,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1%3APNDwclmVe4LcbA%3A2%3A1672176578%3A-1%3A1977%3A%3AAcVxNACJlkHJ2n32HzbBPuQyg_LgkitY1bV9XIRkCg"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1680207786.409123,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0Hd4w4tOaYTSPetAG.AWUUhMpSrQn9PoQlE5gfchAfSVE.Bjr0ir.pU.AAA.0.0.Bjr0ir.AWXNQK7Qg4U"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1673036673,
+			"expirationDate": 1673109564,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -117,6 +91,32 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1704040618.117047,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1%3APNDwclmVe4LcbA%3A2%3A1672176578%3A-1%3A1977%3A%3AAcU7wmH8C8PXUaFZ8cyJy7wRoG8gzSpYUI9iVIygaA"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1680280617.11706,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0R0FXGu9xA4CjvzDQ.AWV8a59M9RyzCONJR8Kybqri8-0.BjsGUo.pU.AAA.0.0.BjsGUo.AWVWwNgVMAg"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672431875894%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672504721928%2C%22v%22%3A1%7D"
 		}
 	]
 }
