@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "01.01.2023 20:00 4 a9 dias",
+	"lastEventDate": "01.01.2023 20:02 4 a9 dias",
 	"status": 2,
 	"id": "100088746800642",
 	"name": "luizzacarlas",
-	"amountFriends": "126",
+	"amountFriends": "144",
 	"screenname": "Carla Luiza Figueiredo",
 	"birthdate": "1989 February 16",
 	"country": "",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704048949.775193,
+			"expirationDate": 1704139215.899487,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673117864,
+			"expirationDate": 1673208128,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704048949.775225,
+			"expirationDate": 1704139215.89952,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "30%3AkLGxn0bZGVSbDQ%3A2%3A1672017110%3A-1%3A2779%3A%3AAcXkr79nUz-qCjFKnMEwon5UTE92I94JRIqr_ZJUkA"
+			"value": "30%3AkLGxn0bZGVSbDQ%3A2%3A1672017110%3A-1%3A2779%3A%3AAcUcnTYiD9LsUG9fRzDjkXAaQthyFpaOxxOvdVYJcg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680288948.775239,
+			"expirationDate": 1680379214.899535,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0neyhIoBYhuxKtYYE.AWXqj8AT70NOWHPt7A8KdvYwmAg.BjsIW0.dK.AAA.0.0.BjsIW0.AWUO84DlL_c"
+			"value": "0JvSEk5Gs7WGRSzYh.AWVgQ3eeQPKnZHXIJNwsQxkXWzM.BjseZQ.dK.AAA.0.0.BjseZQ.AWXozbmrMgY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672513041048%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672603305541%2C%22v%22%3A1%7D"
 		}
 	]
 }
