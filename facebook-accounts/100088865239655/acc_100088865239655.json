@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "02.01.2023 01:16 4 a9 dias",
+	"lastEventDate": "02.01.2023 01:18 4 a9 dias",
 	"status": 2,
 	"id": "100088865239655",
 	"name": "soninhaesteve",
-	"amountFriends": "",
+	"amountFriends": "55",
 	"screenname": "Sonia Esteves",
 	"birthdate": "1971 March 23",
 	"country": "",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704043865.926547,
+			"expirationDate": 1704158211.902302,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673112776,
+			"expirationDate": 1673227124,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704043865.926581,
+			"expirationDate": 1704158211.902334,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "7%3Alhkq3n81yJ75_w%3A2%3A1672356439%3A-1%3A-1%3A%3AAcXfROXaQ8cJE9qJNPdk7b0VxFmPTsl3LC3G27pMZw"
+			"value": "7%3Alhkq3n81yJ75_w%3A2%3A1672356439%3A-1%3A-1%3A%3AAcWjR_xg_ub3mEto1niudSYaiZA17G6IGscRKduoyw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680283864.926594,
+			"expirationDate": 1680398209.902347,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "03DDw6oU3xoi8wIbX.AWUDoIQD_5PY7bv-ttoYd8Slm3g.BjsHHY.vM.AAA.0.0.BjsHHY.AWUlUovy8QI"
+			"value": "0h00HhB86qYAQrlAx.AWVQGeABrX-8two4PD9_gBS8qKg.BjsjCF.vM.AAA.0.0.BjsjCF.AWUKY5Ty5Jc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672507953755%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672622301481%2C%22v%22%3A1%7D"
 		}
 	]
 }
