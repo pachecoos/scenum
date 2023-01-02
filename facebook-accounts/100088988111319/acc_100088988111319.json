@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "02.01.2023 16:46 4 a9 dias",
+	"lastEventDate": "02.01.2023 16:48 4 a9 dias",
 	"status": 2,
 	"id": "100088988111319",
 	"name": "jubrunas",
-	"amountFriends": "117",
+	"amountFriends": "118",
 	"screenname": "Bruna Juliana Peixoto",
 	"birthdate": "1986 June 9",
 	"country": "",
@@ -52,20 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672625074.377311,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "pt_BR"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1704114340.473147,
+			"expirationDate": 1704213968.627768,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673183256,
+			"expirationDate": 1673282885,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704114340.473249,
+			"expirationDate": 1704213968.627798,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "16%3AQUJLk3XG2I1CsA%3A2%3A1672020273%3A-1%3A5727%3A%3AAcXzaco_HCJJae_eLtiGqj3bdor8x4JlcpsHbuqt_A"
+			"value": "16%3AQUJLk3XG2I1CsA%3A2%3A1672020273%3A-1%3A5727%3A%3AAcUS4JNvnTeu8bW1EVyt18Z_w6rgivlEHCgL2nzf8Q"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680354339.47331,
+			"expirationDate": 1680453967.627812,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0VkLrzTfiKezdn1Ko.AWUaokbm6ZORZpPfWn9dbzIWVV8.BjsYUk.Jb.AAA.0.0.BjsYUk.AWVzlH7Lb70"
+			"value": "0oj6gBpcFAMDQlc1N.AWVvXAARfd_gpAyN7IG5JApeRLo.BjswpQ.Jb.AAA.0.0.BjswpQ.AWVpz0Gq9OA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672578433284%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672678064334%2C%22v%22%3A1%7D"
 		}
 	]
 }
