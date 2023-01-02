@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "02.01.2023 00:45 4 a9 dias",
+	"lastEventDate": "02.01.2023 00:47 4 a9 dias",
 	"status": 2,
 	"id": "100089115399455",
 	"name": "melissaesterr",
-	"amountFriends": "33",
+	"amountFriends": "47",
 	"screenname": "Ester Melissa Rocha",
 	"birthdate": "1988 September 28",
 	"country": "",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704055535.347912,
+			"expirationDate": 1704156340.042976,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673124441,
+			"expirationDate": 1673225244,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704055535.347948,
+			"expirationDate": 1704156340.043017,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "42%3AlxaqZz_vErX29A%3A2%3A1672358948%3A-1%3A-1%3A%3AAcWHquKLN1qpYyBTKiLK-HypvOpeWSSWDA6VM5d2YA"
+			"value": "42%3AlxaqZz_vErX29A%3A2%3A1672358948%3A-1%3A-1%3A%3AAcWp7y1B48XrKYsalz51y0zHjhNtfU4akIBVPgO91w"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680295534.347962,
+			"expirationDate": 1680396339.043033,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0mkkmIxuuqBKC8Udk.AWUE3OeQrotCXfwYga0G4F7N5Ww.BjsJ9u.7u.AAA.0.0.BjsJ9u.AWWPInPbSCY"
+			"value": "087hdNZHGkpd4GUxY.AWXHBPGHG6Gds4rwh2xCNM2xw_U.Bjsik1.7u.AAA.0.0.Bjsik1.AWWTYh6oQqI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672519617993%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672620422216%2C%22v%22%3A1%7D"
 		}
 	]
 }
