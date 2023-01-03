@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "03.01.2023 16:45 9 A 12 DIAS",
+	"lastEventDate": "03.01.2023 16:47 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088700302392",
 	"name": "biacarolinas",
-	"amountFriends": "79",
+	"amountFriends": "92",
 	"screenname": "Bianca Carolina Pereira",
 	"birthdate": "1987 October 21",
 	"country": "",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704216451.510186,
+			"expirationDate": 1704300325.955748,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673285367,
+			"expirationDate": 1673369242,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704216451.510225,
+			"expirationDate": 1704300325.955781,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "43%3Apn55-Q8NqJd6ng%3A2%3A1672011220%3A-1%3A1383%3A%3AAcUaV4UwYpltD8C22K39PMF0FpmMXNJzhWwr0J6Nug"
+			"value": "43%3Apn55-Q8NqJd6ng%3A2%3A1672011220%3A-1%3A1383%3A%3AAcUNWaFAkci2ZCduNQU_xh1iWq8ZMufoQVf9LpLLgA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680456450.510241,
+			"expirationDate": 1680540324.955796,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0jFtUpfpMjEe3R6Ne.AWVIk_nRTYdWcUH343E0OYBLvh8.BjsxQD.Ul.AAA.0.0.BjsxQD.AWXKyy1bVAg"
+			"value": "0mKRrDB1RkDUlJMxC.AWXuuroYQXT3h1neCjYoA1ktO9I.BjtFul.Ul.AAA.0.0.BjtFul.AWWOXSQQjh8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672680544133%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672764419422%2C%22v%22%3A1%7D"
 		}
 	]
 }
