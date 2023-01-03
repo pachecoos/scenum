@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "03.01.2023 12:52 4 a9 dias",
+	"lastEventDate": "03.01.2023 12:54 4 a9 dias",
 	"status": 2,
 	"id": "100088892236502",
 	"name": "verabened",
-	"amountFriends": "105",
+	"amountFriends": "125",
 	"screenname": "Vera Benedita Moura",
 	"birthdate": "1989 April 14",
 	"country": "",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704229508.266623,
+			"expirationDate": 1704286351.500915,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673298418,
+			"expirationDate": 1673355232,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704229508.266742,
+			"expirationDate": 1704286351.501026,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1%3APNDwclmVe4LcbA%3A2%3A1672176578%3A-1%3A1977%3A%3AAcXGY89GUUTFvUxG49XHYHzdYdoI0LMQRzrbWNSdHA"
+			"value": "1%3APNDwclmVe4LcbA%3A2%3A1672176578%3A-1%3A1977%3A%3AAcWB537exCFwj_pgX-Dxy8pomRzeW5xib_K3IAGBcg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680469507.266813,
+			"expirationDate": 1680526350.501042,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0VsbDHK1n7oSRCRYp.AWXLeRsliJIjqaoK3HJxRccHR24.Bjs0cE.pU.AAA.0.0.Bjs0cE.AWUqtGBzKbY"
+			"value": "0CEN4wXi2SRhMfBiH.AWVih15vTLRCaOgHexfkMygMiWM.BjtCUO.pU.AAA.0.0.BjtCUO.AWWt01Hvul4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672693594513%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672750435246%2C%22v%22%3A1%7D"
 		}
 	]
 }
