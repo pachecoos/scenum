@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "02.01.2023 13:50 4 a9 dias",
+	"lastEventDate": "03.01.2023 18:05 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088973383398",
 	"name": "helosilvacar",
-	"amountFriends": "165",
+	"amountFriends": "140",
 	"screenname": "Silvana Heloiza Cardoso",
 	"birthdate": "1980 May 13",
 	"country": "",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704201912.571768,
+			"expirationDate": 1704127322.011486,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,33 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704201912.571804,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "18%3A-wFSiHpLrczYkg%3A2%3A1672173042%3A-1%3A1923%3A%3AAcViQnQjj7533hen6Dy4hxqBp0MFs_W47LNe7wUsQA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1680441911.57182,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0W1KyMi8Sg2l68OE2.AWWtC8f-e1bmUXEKFYITLCYqjMc.Bjsts5.xL.AAA.0.0.Bjsts5.AWW4cmbHTJg"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1673270825,
+			"expirationDate": 1673196233,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -117,6 +91,32 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1704127322.011523,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "18%3A-wFSiHpLrczYkg%3A2%3A1672173042%3A-1%3A1923%3A%3AAcWJ8Ds58hg40E9aAAIYhwI78_rSMcRht6JqdZ-8Og"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1680367321.011552,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0Wy5boOEjPvFCmvPZ.AWUUBTSE3jpqHEPjil4L6KDV00E.Bjsbfa.xL.AAA.0.0.Bjsbfa.AWWDjYqEOq8"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672666003119%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672591410887%2C%22v%22%3A1%7D"
 		}
 	]
 }
