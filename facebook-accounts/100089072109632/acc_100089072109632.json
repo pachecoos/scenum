@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "03.01.2023 17:32 9 A 12 DIAS",
+	"lastEventDate": "03.01.2023 17:34 9 A 12 DIAS",
 	"status": 2,
 	"id": "100089072109632",
 	"name": "joanagably",
-	"amountFriends": "",
+	"amountFriends": "88",
 	"screenname": "Joana Gabriely Assis",
 	"birthdate": "1988 July 11",
 	"country": "",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704199624.622596,
+			"expirationDate": 1704303139.337688,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,33 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704199624.622627,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "38%3A5NkSU2wjVDsCJA%3A2%3A1672175017%3A-1%3A1898%3A%3AAcUQ3bTno9AamkYc9gqz8X4Cgf1ewiyUOMcD-RMCmA"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1680439623.62264,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0LH1oDOrjwG9eGl0f.AWXsFhoFrYC1wylvqjVM7lDjF9Y.BjstJJ.oH.AAA.0.0.BjstJJ.AWWBBGjQFCo"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1673268541,
+			"expirationDate": 1673372052,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -113,7 +87,33 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1440x757"
+			"value": "1440x712"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1704303139.337718,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "38%3A5NkSU2wjVDsCJA%3A2%3A1672175017%3A-1%3A1898%3A%3AAcWc-UNbPpBhKhpGwYD-yeFLXuibAx6Kb72Fu8i3AQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1680543138.337731,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "02iZLui0qcIpusQON.AWWa-WDJlaSWKQxncjIr76OMI0w.BjtGai.oH.AAA.0.0.BjtGai.AWVztnKL5XE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672663718381%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672767229389%2C%22v%22%3A1%7D"
 		}
 	]
 }
