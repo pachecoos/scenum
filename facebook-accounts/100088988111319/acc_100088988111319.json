@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "04.01.2023 16:02 9 A 12 DIAS",
+	"lastEventDate": "04.01.2023 16:05 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088988111319",
 	"name": "jubrunas",
-	"amountFriends": "121",
+	"amountFriends": "124",
 	"screenname": "Bruna Juliana Peixoto",
 	"birthdate": "1986 June 9",
 	"country": "",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704284299.898651,
+			"expirationDate": 1704384185.704007,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,33 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704284299.898687,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "16%3AQUJLk3XG2I1CsA%3A2%3A1672020273%3A-1%3A5727%3A%3AAcWO3QZ_RSLxFbQf7SaTqtDEuBgxQJPZUyv-uX8JUg"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1680524298.898704,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0tljYmIo1Nkrj5pYM.AWUjKZ_wF3UnIJ1Lba3CHZslgUI.BjtB0K.Jb.AAA.0.0.BjtB0K.AWXXVJXIz30"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1673353186,
+			"expirationDate": 1673453142,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -104,6 +78,32 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1704384185.70406,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "16%3AQUJLk3XG2I1CsA%3A2%3A1672020273%3A-1%3A5727%3A%3AAcW3LZvAhsfpS_iAnwdoDom4l2nFC94zsIAHTZ3ZUw"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1680624184.704077,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0OCXgUEPLZ6hELb8F.AWUoLAjJj85yn4YCopmZr_klNbY.BjtaM5.Jb.AAA.0.0.BjtaM5.AWU2S2cCm1k"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672748391388%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672848299591%2C%22v%22%3A1%7D"
 		}
 	]
 }
