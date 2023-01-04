@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "04.01.2023 13:37 9 A 12 DIAS",
+	"lastEventDate": "04.01.2023 13:39 9 A 12 DIAS",
 	"status": 2,
 	"id": "100089072109632",
 	"name": "joanagably",
-	"amountFriends": "88",
+	"amountFriends": "90",
 	"screenname": "Joana Gabriely Assis",
 	"birthdate": "1988 July 11",
 	"country": "",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704369038.902371,
+			"expirationDate": 1704375472.465092,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673437990,
+			"expirationDate": 1673444385,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704369038.902403,
+			"expirationDate": 1704375472.465123,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "38%3A5NkSU2wjVDsCJA%3A2%3A1672175017%3A-1%3A1898%3A%3AAcW2Yuvou1z41d6poz1b39rNCoVVBg941ZvRv6KZkw"
+			"value": "38%3A5NkSU2wjVDsCJA%3A2%3A1672175017%3A-1%3A1898%3A%3AAcVVLFFtA05kI1AkT1TOpbafb0MB4qjqo3iu5PRqVA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680609037.902416,
+			"expirationDate": 1680615471.465136,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0UdRbvUYYflYbTkC6.AWU7EkNJxvqW56Q5JWGBzmh6lcg.BjtWgO.oH.AAA.0.0.BjtWgO.AWXkQTsMYI4"
+			"value": "0kBHNeuB7KhjQKz6I.AWXpFz2zDM8EgVuZCGO0yRmKEoQ.BjtYEw.oH.AAA.0.0.BjtYEw.AWUhhQAnlUw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672833148074%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672839562983%2C%22v%22%3A1%7D"
 		}
 	]
 }
