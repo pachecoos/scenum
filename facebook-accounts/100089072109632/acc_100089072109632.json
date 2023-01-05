@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "05.01.2023 17:03 9 A 12 DIAS",
+	"lastEventDate": "05.01.2023 17:05 9 A 12 DIAS",
 	"status": 2,
 	"id": "100089072109632",
 	"name": "joanagably",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704375472.465092,
+			"expirationDate": 1704474217.949774,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673444385,
+			"expirationDate": 1673543134,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704375472.465123,
+			"expirationDate": 1704474217.949809,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "38%3A5NkSU2wjVDsCJA%3A2%3A1672175017%3A-1%3A1898%3A%3AAcVVLFFtA05kI1AkT1TOpbafb0MB4qjqo3iu5PRqVA"
+			"value": "38%3A5NkSU2wjVDsCJA%3A2%3A1672175017%3A-1%3A1898%3A%3AAcUD3Y25n-8EPu7WpSOuhcC3z5UU4bMgPZU2ZmXNUic"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680615471.465136,
+			"expirationDate": 1680714216.949827,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0kBHNeuB7KhjQKz6I.AWXpFz2zDM8EgVuZCGO0yRmKEoQ.BjtYEw.oH.AAA.0.0.BjtYEw.AWUhhQAnlUw"
+			"value": "0KqNSygN4iD4NgTRb.AWVrDfTCslD_k-Z_D0A2z_GihDI.BjtwLp.oH.AAA.0.0.BjtwLp.AWWmVcJ7I9A"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672839562983%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672938311895%2C%22v%22%3A1%7D"
 		}
 	]
 }
