@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "06.01.2023 13:13 9 A 12 DIAS",
+	"lastEventDate": "06.01.2023 13:15 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088635535516",
 	"name": "apacristi",
-	"amountFriends": "221",
+	"amountFriends": "235",
 	"screenname": "Aparecida Cristiane Aragão",
 	"birthdate": "1983 August 16",
 	"country": "Brazil",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704390918.452663,
+			"expirationDate": 1704546839.336437,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673459823,
+			"expirationDate": 1673615743,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704390918.452695,
+			"expirationDate": 1704546839.336474,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "27%3ABsqqdUYwAFeKNA%3A2%3A1672014624%3A-1%3A1385%3A%3AAcUWK6UMJwkRRlDWrcc9xaZLWn8pdkxx1gu9C0Ap8BU"
+			"value": "27%3ABsqqdUYwAFeKNA%3A2%3A1672014624%3A-1%3A5587%3A%3AAcW1dYGZKWOLhRCjhPAsI8prVODowXwQS0OQYrtJ19g"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680630917.45271,
+			"expirationDate": 1680786838.336489,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0OUBRMCmKZkXd2s5E.AWVTkl6--2bYdm0vOHQ2mJcEz9o.Bjtb2G.Js.AAA.0.0.Bjtb2G.AWW9GrzOhPc"
+			"value": "0WQnjsK0kBY5DIfnw.AWVP8RND5visO-7fLYabpzi_TL0.BjuB6X.Js.AAA.0.0.BjuB6X.AWVTpaEjS4M"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672855000497%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673010921373%2C%22v%22%3A1%7D"
 		}
 	]
 }
