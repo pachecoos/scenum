@@ -1,7 +1,7 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "06.01.2023 13:47 9 A 12 DIAS",
+	"lastEventDate": "06.01.2023 13:49 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088988111319",
 	"name": "jubrunas",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704384185.704007,
+			"expirationDate": 1704548861.181182,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673453142,
+			"expirationDate": 1673617779,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704384185.70406,
+			"expirationDate": 1704548861.181214,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "16%3AQUJLk3XG2I1CsA%3A2%3A1672020273%3A-1%3A5727%3A%3AAcW3LZvAhsfpS_iAnwdoDom4l2nFC94zsIAHTZ3ZUw"
+			"value": "16%3AQUJLk3XG2I1CsA%3A2%3A1672020273%3A-1%3A5727%3A%3AAcX0nTNoZEfWYyGbjajsh_KFB2z41R-ruizPBH6fCjQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680624184.704077,
+			"expirationDate": 1680788859.181227,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0OCXgUEPLZ6hELb8F.AWUoLAjJj85yn4YCopmZr_klNbY.BjtaM5.Jb.AAA.0.0.BjtaM5.AWU2S2cCm1k"
+			"value": "0Ly1TQ0JC0GAoBohy.AWWjjDYXjkmXvAOJTWordU4ZwuY.BjuCZ-.Jb.AAA.0.0.BjuCZ-.AWWgJlC4GB4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672848299591%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673012956223%2C%22v%22%3A1%7D"
 		}
 	]
 }
