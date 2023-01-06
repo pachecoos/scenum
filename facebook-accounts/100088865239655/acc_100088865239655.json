@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "06.01.2023 16:33 4 a9 dias",
+	"lastEventDate": "06.01.2023 16:35 4 a9 dias",
 	"status": 2,
 	"id": "100088865239655",
 	"name": "soninhaesteve",
-	"amountFriends": "101",
+	"amountFriends": "102",
 	"screenname": "Sonia Esteves",
 	"birthdate": "1971 March 23",
 	"country": "",
@@ -52,20 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672961240.911124,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "pt_BR"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1704472426.476036,
+			"expirationDate": 1704558811.167383,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673541335,
+			"expirationDate": 1673627716,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704472426.476077,
+			"expirationDate": 1704558811.167499,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "7%3Alhkq3n81yJ75_w%3A2%3A1672356439%3A-1%3A-1%3A%3AAcW3nFGV8vS_ff3Awr5pnlHXgoyk77hIxSryr0aPpA"
+			"value": "7%3Alhkq3n81yJ75_w%3A2%3A1672356439%3A-1%3A1851%3A%3AAcUIvcWKt_wYr5wYXnrFe0Ed8otiS9zIhPY5u0SS2Q"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680712425.476097,
+			"expirationDate": 1680798810.167559,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0TZxpzEKTonqfJWyA.AWUj7Ljv9RQIdaBedjFXiiaSml0.Bjtvvp.vM.AAA.0.0.Bjtvvp.AWVYcKdkB_4"
+			"value": "06KVgPXlWDRoZHLoI.AWUPLnLtRtMlJCqvN1jdz-oKIQk.BjuE1b.vM.AAA.0.0.BjuE1b.AWWVnZ815qk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672936512492%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673022893020%2C%22v%22%3A1%7D"
 		}
 	]
 }
