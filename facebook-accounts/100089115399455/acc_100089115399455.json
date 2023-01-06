@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "06.01.2023 22:34 9 A 12 DIAS",
+	"lastEventDate": "06.01.2023 22:36 9 A 12 DIAS",
 	"status": 2,
 	"id": "100089115399455",
 	"name": "melissaesterr",
-	"amountFriends": "59",
+	"amountFriends": "60",
 	"screenname": "Ester Melissa Rocha",
 	"birthdate": "1988 September 28",
 	"country": "",
@@ -52,20 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1672963749.54061,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "pt_BR"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1704462629.566171,
+			"expirationDate": 1704580483.98939,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,33 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704462629.566208,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "42%3AlxaqZz_vErX29A%3A2%3A1672358948%3A-1%3A-1%3A%3AAcUFKU_X1PTsFINl7ALx7RAwahkkuWTmiOdHlrJA9A"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1680702628.566221,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "08malmTZnJXnwUfUf.AWWn0loPk6LcNs3zDv32PSh_RFw.BjttWl.7u.AAA.0.0.BjttWl.AWXYVk8X_N8"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1673531578,
+			"expirationDate": 1673649409,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -117,6 +78,32 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1704580483.989424,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "42%3AlxaqZz_vErX29A%3A2%3A1672358948%3A-1%3A13309%3A%3AAcVjIvrLbtfxXp_mCf_dz-vPYyqlpQpsDx7NewMydg"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1680820482.989438,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "01u5ywakqrTbslCH7.AWW0-ALoFR0VRgB0kO_ZpnSnr30.BjuKIE.7u.AAA.0.0.BjuKIE.AWU_taKFX7k"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -125,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672926736705%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673044567613%2C%22v%22%3A1%7D"
 		}
 	]
 }
