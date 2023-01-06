@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "06.01.2023 18:47 4 A 8 DIAS ",
+	"lastEventDate": "06.01.2023 18:49 4 A 8 DIAS ",
 	"status": 2,
 	"id": "100089165380415",
 	"name": "ANndreapietras",
-	"amountFriends": "37",
+	"amountFriends": "60",
 	"screenname": "Andrea Pietra Santos",
 	"birthdate": "1985 April 11",
 	"country": "",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704496375.376369,
+			"expirationDate": 1704566843.590444,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673565303,
+			"expirationDate": 1673635760,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704496375.376402,
+			"expirationDate": 1704566843.590522,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "3%3Avq8Vf0PEmjwJUw%3A2%3A1672625192%3A-1%3A3938%3A%3AAcXAKzfqI9I7iID9a47xTnp_UOrrWZ5r8v5Z7o6wVQ"
+			"value": "3%3Avq8Vf0PEmjwJUw%3A2%3A1672625192%3A-1%3A3938%3A%3AAcUY02n9SBBL18IfQYYqtpJe9b-eKavjPo19W_p_Rw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680736374.376417,
+			"expirationDate": 1680806842.59056,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0V6x9oSKzLcc8mYGO.AWXqPGquOxVGlzO-JfFmZZJW0oQ.Bjt1l4.io.AAA.0.0.Bjt1l4.AWVP7-1qXII"
+			"value": "0DEdZ28gCsxCsqzpc.AWUwpRMtDjYyRg1UGt1SJQ_RBjs.BjuGy7.io.AAA.0.0.BjuGy7.AWWAf3uawKo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1672960461404%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673030938192%2C%22v%22%3A1%7D"
 		}
 	]
 }
