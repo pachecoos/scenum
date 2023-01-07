@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "07.01.2023 17:35 9 A 12 DIAS",
+	"lastEventDate": "07.01.2023 17:38 9 A 12 DIAS",
 	"status": 2,
 	"id": "100089115399455",
 	"name": "melissaesterr",
-	"amountFriends": "60",
+	"amountFriends": "62",
 	"screenname": "Ester Melissa Rocha",
 	"birthdate": "1988 September 28",
 	"country": "",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704580483.98939,
+			"expirationDate": 1704648962.912928,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673649409,
+			"expirationDate": 1673717891,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704580483.989424,
+			"expirationDate": 1704648962.912962,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "42%3AlxaqZz_vErX29A%3A2%3A1672358948%3A-1%3A13309%3A%3AAcVjIvrLbtfxXp_mCf_dz-vPYyqlpQpsDx7NewMydg"
+			"value": "42%3AlxaqZz_vErX29A%3A2%3A1672358948%3A-1%3A13309%3A%3AAcW5P_GqnurjCRrvkair0Nkz-pvcU1le8aJJFD-jVw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680820482.989438,
+			"expirationDate": 1680888960.912976,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "01u5ywakqrTbslCH7.AWW0-ALoFR0VRgB0kO_ZpnSnr30.BjuKIE.7u.AAA.0.0.BjuKIE.AWU_taKFX7k"
+			"value": "05XK7Qf2NIo8vl03o.AWU9Z7JTNKsFBem32qau1TaKK9U.Bjua2D.7u.AAA.0.0.Bjua2D.AWX9-TbRj-E"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673044567613%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673113048255%2C%22v%22%3A1%7D"
 		}
 	]
 }
