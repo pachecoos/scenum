@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "10.01.2023 17:45 9 A 12 DIAS",
+	"lastEventDate": "10.01.2023 17:47 9 A 12 DIAS",
 	"status": 2,
 	"id": "100088746800642",
 	"name": "luizzacarlas",
-	"amountFriends": "300",
+	"amountFriends": "350",
 	"screenname": "Carla Luiza Figueiredo",
 	"birthdate": "1989 February 16",
 	"country": "",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704808421.784642,
+			"expirationDate": 1704908200.578687,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673877344,
+			"expirationDate": 1704908200.578809,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "30%3AkLGxn0bZGVSbDQ%3A2%3A1672017110%3A-1%3A5551%3A%3AAcXb-FN5jSgz3s_ASPfYQQFoSx0QPnWep6d2VjennLc"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1673977656,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,20 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704808421.784674,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "30%3AkLGxn0bZGVSbDQ%3A2%3A1672017110%3A-1%3A5551%3A%3AAcWE0wgTouiGr6H2U9MCMiTrgQgzDasW4pKn6mR22B0"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1681048420.784688,
+			"expirationDate": 1681148708.68421,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0CVHD2ro1EoZmGuux.AWWR3Wrv9pml1-X65aliJquJxao.BjvBxl.dK.AAA.0.0.BjvBxl.AWU67trYq7E"
+			"value": "0m9BtC6VCaR3hG2md.AWXJqSYnMIG-321UH9tM7RxxFGM.BjvaIo.dK.AAA.0.0.BjvaQl.AWXXRcE2YwQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673272502171%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673372813946%2C%22v%22%3A1%7D"
 		}
 	]
 }
