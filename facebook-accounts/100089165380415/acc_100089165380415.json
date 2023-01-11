@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "11.01.2023 13:39 roteiro pequeno",
+	"lastEventDate": "11.01.2023 13:41 roteiro pequeno",
 	"status": 2,
 	"id": "100089165380415",
 	"name": "ANndreapietras",
-	"amountFriends": "112",
+	"amountFriends": "151",
 	"screenname": "Andrea Pietra Santos",
 	"birthdate": "1985 April 11",
 	"country": "",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704939280.980394,
+			"expirationDate": 1704980390.25069,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674008169,
+			"expirationDate": 1674049295,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704939280.980424,
+			"expirationDate": 1704980390.250801,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "3%3Avq8Vf0PEmjwJUw%3A2%3A1672625192%3A-1%3A3938%3A%3AAcWfcxrqG27CiRswCkTlaHX080fnDgeZAtKQHEDecA"
+			"value": "3%3Avq8Vf0PEmjwJUw%3A2%3A1672625192%3A-1%3A3938%3A%3AAcVvoh5Djl-uf8dOvN9Cgl9FrpSi8JhgtUtQwuQy7A"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681179278.980438,
+			"expirationDate": 1681220389.25086,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0cVbqg4Pm2fIFez1L.AWUMUO05l4oQCXPWRWdWULKxy7E.BjvhuS.io.AAA.0.0.BjvhuS.AWVv3Qp_W_E"
+			"value": "0yD9oy6t5mOymasAF.AWXkt9FwhJJBgcicbY5K7T-kTaM.Bjvrwk.io.AAA.0.0.Bjvrwk.AWV3Y3sln5w"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100050495574211%22%7D%5D%2C%22utc3%22%3A1673403346969%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673444494346%2C%22v%22%3A1%7D"
 		}
 	]
 }
