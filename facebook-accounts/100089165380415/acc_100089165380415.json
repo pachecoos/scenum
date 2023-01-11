@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "11.01.2023 02:14 9 A 12 DIAS",
+	"lastEventDate": "11.01.2023 02:16 9 A 12 DIAS",
 	"status": 2,
 	"id": "100089165380415",
 	"name": "ANndreapietras",
-	"amountFriends": "101",
+	"amountFriends": "112",
 	"screenname": "Andrea Pietra Santos",
 	"birthdate": "1985 April 11",
 	"country": "",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704800986.963559,
+			"expirationDate": 1704939280.980394,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673869899,
+			"expirationDate": 1674008169,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704800986.963589,
+			"expirationDate": 1704939280.980424,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "3%3Avq8Vf0PEmjwJUw%3A2%3A1672625192%3A-1%3A3938%3A%3AAcXvSarojpjkMAnbu4eTCv3BaNCtz0PrHJRZ7SPwFw"
+			"value": "3%3Avq8Vf0PEmjwJUw%3A2%3A1672625192%3A-1%3A3938%3A%3AAcWfcxrqG27CiRswCkTlaHX080fnDgeZAtKQHEDecA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681040985.963602,
+			"expirationDate": 1681179278.980438,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0klOzlAJRcaiZtfjT.AWWqfPyXhAge0cZfehsA0Xsyy24.Bju_9a.io.AAA.0.0.Bju_9a.AWV0pegvBeo"
+			"value": "0cVbqg4Pm2fIFez1L.AWUMUO05l4oQCXPWRWdWULKxy7E.BjvhuS.io.AAA.0.0.BjvhuS.AWVv3Qp_W_E"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100050495574211%22%7D%5D%2C%22utc3%22%3A1673265076745%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100050495574211%22%7D%5D%2C%22utc3%22%3A1673403346969%2C%22v%22%3A1%7D"
 		}
 	]
 }
