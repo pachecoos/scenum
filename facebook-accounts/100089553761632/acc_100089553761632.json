@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "20.01.2023 17:01 4 A 8 DIAS ",
+	"lastEventDate": "20.01.2023 17:03 4 A 8 DIAS ",
 	"status": 2,
 	"id": "100089553761632",
 	"name": "melloalines",
-	"amountFriends": "",
+	"amountFriends": "68",
 	"screenname": "Aline Melo",
 	"birthdate": "1988 September 16",
 	"country": "",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705607712.799291,
+			"expirationDate": 1705770087.208989,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,33 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705607712.799401,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "20%3A0HX2EF34wlQOpw%3A2%3A1673992458%3A-1%3A-1%3A%3AAcVnjDpucg-hcQoxlT5uddxqObL6fPxFo1cuBFXk9A"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1681847711.79951,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "00PjwK0OXWQZKLErh.AWWOv3pjZTo7tzAGuRpOio-NOHk.BjyE6g.SZ.AAA.0.0.BjyE6g.AWU5zQXfjC8"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1674676652,
+			"expirationDate": 1674839007,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -117,6 +91,32 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1705770087.209042,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "20%3A0HX2EF34wlQOpw%3A2%3A1673992458%3A-1%3A1480%3A%3AAcXU4YGE87lihm_veoMy-qDfsI0DKRso4qvCg6k6GA"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682010086.209066,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "00mkl5BB0YETO35IU.AWWKcJ_4RvgwC5Jsd-K_l8NU3-o.Bjysjn.SZ.AAA.0.0.Bjysjn.AWXxgbTNTZU"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674071827932%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674234184024%2C%22v%22%3A1%7D"
 		}
 	]
 }
