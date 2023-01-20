@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "20.01.2023 18:28 4 a9 dias",
+	"lastEventDate": "20.01.2023 18:31 4 a9 dias",
 	"status": 2,
 	"id": "100089189935762",
 	"name": "laisvanass",
-	"amountFriends": "10",
+	"amountFriends": "31",
 	"screenname": "Vanessa Lais",
 	"birthdate": "1988 June 20",
 	"country": "",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705626224.428738,
+			"expirationDate": 1705775365.097856,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674695145,
+			"expirationDate": 1674844280,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705626224.428772,
+			"expirationDate": 1705775365.097886,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "17%3AG5tn_eucUnnx-g%3A2%3A1673998122%3A-1%3A-1%3A%3AAcXq74TMOOtXT5BkKWTxSnSTxb9F3T-TFt3dR_z_mA"
+			"value": "17%3AG5tn_eucUnnx-g%3A2%3A1673998122%3A-1%3A12376%3A%3AAcVH5vDbmyrpRns6GnEu6mql-C4AG7GevSbat6gBMQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681866223.428785,
+			"expirationDate": 1682015364.097898,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0EhlqsBGCj4E4UaW1.AWWwUhDo1GzXZYVwjTImYZpsRxA.BjyJbw.0I.AAA.0.0.BjyJbw.AWVMDIdUnHE"
+			"value": "01OgnZh5UEwoHEgW8.AWU9WW489kY3cd4U9mD1-nDggIk.Bjyt2F.0I.AAA.0.0.Bjyt2F.AWW2DxGr_34"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674090322729%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674239457512%2C%22v%22%3A1%7D"
 		}
 	]
 }
