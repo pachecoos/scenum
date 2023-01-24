@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.01.2023 22:40 9 A 12 DIAS",
+	"lastEventDate": "24.01.2023 22:43 9 A 12 DIAS",
 	"status": 2,
 	"id": "100089373708636",
 	"name": "analuemili",
-	"amountFriends": "67",
+	"amountFriends": "105",
 	"screenname": "Analu Emily Barbosa",
 	"birthdate": "1989 May 19",
 	"country": "",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706041797.093141,
+			"expirationDate": 1706136060.431824,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675110744,
+			"expirationDate": 1675205008,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706041797.093175,
+			"expirationDate": 1706136060.431943,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "50%3Aar2C5sv1m44skg%3A2%3A1674097698%3A-1%3A-1%3A%3AAcW4vW7VL07LkMUD3LFZVWJYDK81HAoGBYS4_mvlwA"
+			"value": "50%3Aar2C5sv1m44skg%3A2%3A1674097698%3A-1%3A-1%3A%3AAcXNAzQJvMaSzvSnfVd6BCfJJmfT_Ec6m8cP0EbQBQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682281796.093187,
+			"expirationDate": 1682376059.432,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "02dufcWhOQ1F9tOVx.AWVbets3aMVvSj9WLt-nQ2GcHbU.Bjzu5F.hl.AAA.0.0.Bjzu5F.AWVRsLO1-I8"
+			"value": "0RFTWF11vHemK7aVu.AWX1n3orT6vmVqvBa3k7nQtz2uw.Bj0F58.hl.AAA.0.0.Bj0F58.AWUx6BUHhnQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674505902405%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674600167293%2C%22v%22%3A1%7D"
 		}
 	]
 }
