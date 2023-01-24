@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.01.2023 15:54 9 A 12 DIAS",
+	"lastEventDate": "24.01.2023 15:56 9 A 12 DIAS",
 	"status": 2,
 	"id": "100089754003595",
 	"name": "belleisafreitas",
-	"amountFriends": "65",
+	"amountFriends": "105",
 	"screenname": "Isabelle Freitas",
 	"birthdate": "1988 August 27",
 	"country": "",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706028121.679861,
+			"expirationDate": 1706111695.225537,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675097036,
+			"expirationDate": 1675180607,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706028121.679895,
+			"expirationDate": 1706111695.225572,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "40%3AXOEHz8C8s4MU5A%3A2%3A1673994546%3A-1%3A12751%3A%3AAcWLqtcgIxDj-5m6aPTXrmPV_WEhxpyE5OZooPHE_A"
+			"value": "40%3AXOEHz8C8s4MU5A%3A2%3A1673994546%3A-1%3A12751%3A%3AAcV-DjIWPgR9r_033qQhGVt2X-QPR7ZAkAYsjP3LHQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682268120.679908,
+			"expirationDate": 1682351694.225586,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0F5NMu2M8HOCQQjok.AWXoHy4SPgO-I3mVt0ZopP0qE80.BjzrjZ.NV.AAA.0.0.BjzrjZ.AWXJkH0dQp8"
+			"value": "0TazS794ckJaMOAPV.AWW1LmDZCILcjzfvVtYOdPb_K60.Bjz_9P.NV.AAA.0.0.Bjz_9P.AWU3wmOl_A8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674492212922%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674575784078%2C%22v%22%3A1%7D"
 		}
 	]
 }
