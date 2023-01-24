@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "24.01.2023 17:40 9 A 12 DIAS",
+	"lastEventDate": "24.01.2023 17:43 9 A 12 DIAS",
 	"status": 2,
 	"id": "100089260732239",
 	"name": "carolinaestnogu",
-	"amountFriends": "24",
+	"amountFriends": "52",
 	"screenname": "Carolina Ester Nogueira",
 	"birthdate": "1990 July 18",
 	"country": "",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705772756.70525,
+			"expirationDate": 1706118067.536482,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674841666,
+			"expirationDate": 1675186980,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705772756.705402,
+			"expirationDate": 1706118067.536573,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "50%3Av1OA3UQOvVVgiQ%3A2%3A1673996279%3A-1%3A2927%3A%3AAcXvVGoC9rMpcuIjZ7cppPUpmAzQ1a79InEg1Agg3g"
+			"value": "50%3Av1OA3UQOvVVgiQ%3A2%3A1673996279%3A-1%3A2927%3A%3AAcV4IHxu5ylEN3QXxwVWRVsde0OFYGODCfFvKlPMow"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682012757.817625,
+			"expirationDate": 1682358066.536619,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0s8mYcleD8AbjNmzP.AWVzq9d32zxLnQknnxnPH1bb0Vo.BjyGXf.e4.AAA.0.0.BjytNW.AWWzo1JTm7s"
+			"value": "03w00pwT7gmZfdOWj.AWUyIil-0Oz9GSolBzsAZmRvR98.Bj0Bg0.e4.AAA.0.0.Bj0Bg0.AWW8giYMeG8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674236844484%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674582158316%2C%22v%22%3A1%7D"
 		}
 	]
 }
