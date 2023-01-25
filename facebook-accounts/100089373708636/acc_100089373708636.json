@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.01.2023 19:39 9 A 12 DIAS",
+	"lastEventDate": "25.01.2023 19:41 9 A 12 DIAS",
 	"status": 2,
 	"id": "100089373708636",
 	"name": "analuemili",
-	"amountFriends": "105",
+	"amountFriends": "152",
 	"screenname": "Analu Emily Barbosa",
 	"birthdate": "1989 May 19",
 	"country": "",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706136060.431824,
+			"expirationDate": 1706211596.335562,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675205008,
+			"expirationDate": 1706211596.335605,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "50%3Aar2C5sv1m44skg%3A2%3A1674097698%3A-1%3A-1%3A%3AAcWw7AnCRWVbqxElQlamxeWjDNxPh0fVmPNNSIwS-g"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682451595.335617,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0CJ1R8AbwkiYArN4L.AWXe-biZuTUXl-WhWBXE9y2QEOM.Bj0YWM.hl.AAA.0.0.Bj0YWM.AWVVaBZG4aQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1675280505,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,32 +117,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706136060.431943,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "50%3Aar2C5sv1m44skg%3A2%3A1674097698%3A-1%3A-1%3A%3AAcXNAzQJvMaSzvSnfVd6BCfJJmfT_Ec6m8cP0EbQBQ"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1682376059.432,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0RFTWF11vHemK7aVu.AWX1n3orT6vmVqvBa3k7nQtz2uw.Bj0F58.hl.AAA.0.0.Bj0F58.AWUx6BUHhnQ"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674600167293%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674675682276%2C%22v%22%3A1%7D"
 		}
 	]
 }
