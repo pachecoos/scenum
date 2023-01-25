@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.01.2023 16:38 9 A 12 DIAS",
+	"lastEventDate": "25.01.2023 16:41 9 A 12 DIAS",
 	"status": 2,
 	"id": "100089260732239",
 	"name": "carolinaestnogu",
-	"amountFriends": "52",
+	"amountFriends": "56",
 	"screenname": "Carolina Ester Nogueira",
 	"birthdate": "1990 July 18",
 	"country": "",
@@ -52,20 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674601082.134843,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "pt_BR"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1706118067.536482,
+			"expirationDate": 1706200734.998814,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675186980,
+			"expirationDate": 1675269682,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706118067.536573,
+			"expirationDate": 1706200734.998904,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "50%3Av1OA3UQOvVVgiQ%3A2%3A1673996279%3A-1%3A2927%3A%3AAcV4IHxu5ylEN3QXxwVWRVsde0OFYGODCfFvKlPMow"
+			"value": "50%3Av1OA3UQOvVVgiQ%3A2%3A1673996279%3A-1%3A2927%3A%3AAcVtsgpGjpKJtZ00vs-YDfxjgYL1H5W9G0_d96lMBA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682358066.536619,
+			"expirationDate": 1682440733.99895,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "03w00pwT7gmZfdOWj.AWUyIil-0Oz9GSolBzsAZmRvR98.Bj0Bg0.e4.AAA.0.0.Bj0Bg0.AWW8giYMeG8"
+			"value": "0KyGw9D2Ijlk6MIXj.AWUEG1P39s-ed8ylMORryNax2Eg.Bj0Vse.e4.AAA.0.0.Bj0Vse.AWVVet9xnFg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674582158316%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674664840094%2C%22v%22%3A1%7D"
 		}
 	]
 }
