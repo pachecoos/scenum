@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "25.01.2023 17:19 9 A 12 DIAS",
+	"lastEventDate": "25.01.2023 17:22 9 A 12 DIAS",
 	"status": 2,
 	"id": "100089252002760",
 	"name": "letilaimelo",
-	"amountFriends": "75",
+	"amountFriends": "109",
 	"screenname": "Leticia Lais Melo",
 	"birthdate": "1989 August 15",
 	"country": "",
@@ -52,20 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674595707.765756,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "pt_BR"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1706100682.196741,
+			"expirationDate": 1706203230.534509,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675169588,
+			"expirationDate": 1675272161,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706100682.196849,
+			"expirationDate": 1706203230.534627,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "5%3AVGuQb8DiS_yc8Q%3A2%3A1673990904%3A-1%3A8906%3A%3AAcVTc661MzkMc1rWcxq33LLTAsDVF4bHNiIWo_ZCWQ"
+			"value": "5%3AVGuQb8DiS_yc8Q%3A2%3A1673990904%3A-1%3A8906%3A%3AAcVepLK70sIvaKjFd_cEK-FHq8VEvhasnFT-0Ipabg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682340681.196905,
+			"expirationDate": 1682443229.534681,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Hlz43mHTt8sTbS5P.AWV900VFEGy8TKzOy382xyyMUec.Bjz9RI.65.AAA.0.0.Bjz9RI.AWWwT3X36A4"
+			"value": "0LK1lsAKNHmkFRdXO.AWWJdiHBJise_l2DZfqEOQ2kTk0.Bj0WTe.65.AAA.0.0.Bj0WTe.AWVmFoA-WhQ"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674564766860%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674667319328%2C%22v%22%3A1%7D"
 		}
 	]
 }
