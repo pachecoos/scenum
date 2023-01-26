@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "26.01.2023 16:38 9 A 12 DIAS",
+	"lastEventDate": "26.01.2023 16:40 9 A 12 DIAS",
 	"status": 2,
 	"id": "100089754003595",
 	"name": "belleisafreitas",
-	"amountFriends": "134",
+	"amountFriends": "159",
 	"screenname": "Isabelle Freitas",
 	"birthdate": "1988 August 27",
 	"country": "",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706186776.158011,
+			"expirationDate": 1706287119.304857,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706186776.158044,
+			"expirationDate": 1706287119.304898,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -74,11 +74,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "40%3AXOEHz8C8s4MU5A%3A2%3A1673994546%3A-1%3A12751%3A%3AAcWfruVnLAvja7imdvVpCdYJMIpxQuKmui5yU5mrvA"
+			"value": "40%3AXOEHz8C8s4MU5A%3A2%3A1673994546%3A-1%3A12754%3A%3AAcUOjRqbFK-CiXQnkqlEk7RTLHy2oDCyl5BkHzO81Q"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682426775.158056,
+			"expirationDate": 1682527118.30491,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0QVwarH7F1D7zFSz1.AWWH7cjMBuVyzTiUpfJjazQF0YA.Bj0SSX.NV.AAA.0.0.Bj0SSX.AWW1MnvZyAs"
+			"value": "0GaYEBkLc58WDw2FP.AWWJp_93CarPAsgeGPvkVhYdzPo.Bj0qyO.NV.AAA.0.0.Bj0qyO.AWVbambBsZg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675255688,
+			"expirationDate": 1675356029,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674650865590%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674751206874%2C%22v%22%3A1%7D"
 		}
 	]
 }
