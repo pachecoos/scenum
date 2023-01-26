@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "26.01.2023 12:23 9 A 12 DIAS",
+	"lastEventDate": "26.01.2023 12:25 9 A 12 DIAS",
 	"status": 2,
 	"id": "100089553761632",
 	"name": "melloalines",
-	"amountFriends": "135",
+	"amountFriends": "187",
 	"screenname": "Aline Melo",
 	"birthdate": "1988 September 16",
 	"country": "",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706208858.161932,
+			"expirationDate": 1706271817.636488,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675277776,
+			"expirationDate": 1675340747,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706208858.161966,
+			"expirationDate": 1706271817.636518,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "20%3A0HX2EF34wlQOpw%3A2%3A1673992458%3A-1%3A1480%3A%3AAcUUmqYed7RN4AkXM6cWjuRKFlgKxGLZEupyIgzAqQ"
+			"value": "20%3A0HX2EF34wlQOpw%3A2%3A1673992458%3A-1%3A5549%3A%3AAcXdi85MWzSraqD2OIvKsqUPULHYoakcj9O85dCXSw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682448857.161981,
+			"expirationDate": 1682511815.63653,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0rWSynJXdEyKJ5ZeP.AWVVh7_720p8lhsLRDKG_5-D8bY.Bj0Xra.SZ.AAA.0.0.Bj0Xra.AWXDRkIQkkU"
+			"value": "0fBCVVWVbzQ3O8Sxh.AWUZNPR5PiYe8u3CK5RwJPe2Gd8.Bj0nDJ.SZ.AAA.0.0.Bj0nDJ.AWXL11A-RLI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674672952886%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674735904959%2C%22v%22%3A1%7D"
 		}
 	]
 }
