@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "26.01.2023 17:51 9 A 12 DIAS",
+	"lastEventDate": "26.01.2023 17:53 9 A 12 DIAS",
 	"status": 2,
 	"id": "100089373708636",
 	"name": "analuemili",
-	"amountFriends": "152",
+	"amountFriends": "188",
 	"screenname": "Analu Emily Barbosa",
 	"birthdate": "1989 May 19",
 	"country": "",
@@ -52,20 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674702500.291098,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "pt_BR"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1706211596.335562,
+			"expirationDate": 1706291497.487715,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,33 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706211596.335605,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "50%3Aar2C5sv1m44skg%3A2%3A1674097698%3A-1%3A-1%3A%3AAcWw7AnCRWVbqxElQlamxeWjDNxPh0fVmPNNSIwS-g"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1682451595.335617,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0CJ1R8AbwkiYArN4L.AWXe-biZuTUXl-WhWBXE9y2QEOM.Bj0YWM.hl.AAA.0.0.Bj0YWM.AWVVaBZG4aQ"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1675280505,
+			"expirationDate": 1675360406,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -117,6 +78,32 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1706291497.487745,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "50%3Aar2C5sv1m44skg%3A2%3A1674097698%3A-1%3A5524%3A%3AAcW0tB9X2qrunSeAXk4Sd_eNXu2PQN8RgXPXrs0G-Q"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682531496.487757,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0aN1YRG4lxfhTayoc.AWVCCGAfKE-GuXgqd4J_HibCymU.Bj0r2o.hl.AAA.0.0.Bj0r2o.AWXT5A60-aI"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -125,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674675682276%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674755583224%2C%22v%22%3A1%7D"
 		}
 	]
 }
