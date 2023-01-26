@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "26.01.2023 11:43 9 A 12 DIAS",
+	"lastEventDate": "26.01.2023 11:45 9 A 12 DIAS",
 	"status": 2,
 	"id": "100089252002760",
 	"name": "letilaimelo",
-	"amountFriends": "109",
+	"amountFriends": "163",
 	"screenname": "Leticia Lais Melo",
 	"birthdate": "1989 August 15",
 	"country": "",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706203230.534509,
+			"expirationDate": 1706269412.237099,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675272161,
+			"expirationDate": 1675338319,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706203230.534627,
+			"expirationDate": 1706269412.237141,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -87,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "5%3AVGuQb8DiS_yc8Q%3A2%3A1673990904%3A-1%3A8906%3A%3AAcVepLK70sIvaKjFd_cEK-FHq8VEvhasnFT-0Ipabg"
+			"value": "5%3AVGuQb8DiS_yc8Q%3A2%3A1673990904%3A-1%3A8967%3A%3AAcW8GYTdTIWrBeL5Rfu0MMUg1B-WLVM7YvewD6ky7w"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682443229.534681,
+			"expirationDate": 1682509411.237153,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -100,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0LK1lsAKNHmkFRdXO.AWWJdiHBJise_l2DZfqEOQ2kTk0.Bj0WTe.65.AAA.0.0.Bj0WTe.AWVmFoA-WhQ"
+			"value": "0SqHdJRCm7GazN9wh.AWXcYW-kwDpMUvR0uS9hUE1szdk.Bj0mdj.65.AAA.0.0.Bj0mdj.AWV1pVhNjC0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674667319328%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674733498642%2C%22v%22%3A1%7D"
 		}
 	]
 }
