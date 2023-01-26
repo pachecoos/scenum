@@ -1,11 +1,11 @@
 {
 	"sn": "facebook",
 	"custom": {},
-	"lastEventDate": "26.01.2023 17:16 9 A 12 DIAS",
+	"lastEventDate": "26.01.2023 17:17 9 A 12 DIAS",
 	"status": 2,
 	"id": "100089231215169",
 	"name": "eloadaiferna",
-	"amountFriends": "166",
+	"amountFriends": "189",
 	"screenname": "Eloa Daiane Fernandes",
 	"birthdate": "1990 July 29",
 	"country": "",
@@ -52,20 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674734166.79268,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "locale",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "pt_BR"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1706218739.44851,
+			"expirationDate": 1706289370.784465,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1675287655,
+			"expirationDate": 1675358278,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706218739.448552,
+			"expirationDate": 1706289370.784507,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +87,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "49%3A8UW2_RIDI-p_DQ%3A2%3A1674129363%3A-1%3A-1%3A%3AAcWOXiMhtSDCkumyTs0RH7UXGeOdmMaChxhqydkuwg"
+			"value": "49%3A8UW2_RIDI-p_DQ%3A2%3A1674129363%3A-1%3A5548%3A%3AAcWKIwRSgAoToEaSDDujvXymvjfgKo4oiSzgOTxjqA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682458738.448579,
+			"expirationDate": 1682529369.784518,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +100,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0xiltcVWLKrf4djGf.AWVTeYW3-7jV4xOBjXm2S0Dh_bU.Bj0aFz.jT.AAA.0.0.Bj0aFz.AWWnC0R9VG4"
+			"value": "0dXm6Dqvvc6wNV7Qt.AWVkoknrQgScEhX78gy790Kx1kc.Bj0rVa.jT.AAA.0.0.Bj0rVa.AWUo79blbDE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +112,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674682831349%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1674753454662%2C%22v%22%3A1%7D"
 		}
 	]
 }
